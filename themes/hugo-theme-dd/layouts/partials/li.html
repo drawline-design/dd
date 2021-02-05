@@ -1,0 +1,24 @@
+<article class="post {{ .Section }}">
+    <header class="post-header">
+        <h2 class="post-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        {{if .Params.image }}
+        	{{$thumbnail_s := or .Params.image .Site.Params.image }}
+        	<figure><a href="{{ .RelPermalink }}"><img class="post-thumb" src="{{ $thumbnail_s }}" alt="Post image" title="Post image" /></a></figure>
+        {{else}}
+
+        {{end}}
+    </header>
+    <section class="post-excerpt">
+        {{if .Params.Description }}
+            <p>{{ .Params.Description }} <a class="read-more" href="{{.RelPermalink}}">&raquo;</a></p>
+        {{end}}
+            <p class="post-meta"><time class="post-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
+                {{ .Date.Format "2 Jan 2006" }}
+            </time>
+            {{if .Params.tags }}
+                {{ range $index, $tag := .Params.tags }}
+                    <a href="{{$.Site.BaseURL}}/tags/{{ $tag | urlize }}/" class="tag">#{{ $tag }}</a>
+                {{ end }}
+            {{end}}</p>
+    </section>
+</article>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web on nakajima nobuhiro</title>
+    <link>https://drawline.design/tags/web/</link>
+    <description>Recent content in web on nakajima nobuhiro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>All rights reserved.</copyright>
+    <lastBuildDate>Thu, 25 Jul 2019 20:19:37 +0900</lastBuildDate><atom:link href="https://drawline.design/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HBA</title>
+      <link>https://drawline.design/etude/hba/</link>
+      <pubDate>Thu, 25 Jul 2019 20:19:37 +0900</pubDate>
+      
+      <guid>https://drawline.design/etude/hba/</guid>
+      <description>website Adobe CC</description>
+    </item>
+    
+    <item>
+      <title>Sega lucky lottery</title>
+      <link>https://drawline.design/etude/sega/</link>
+      <pubDate>Sun, 20 Jan 2019 21:34:13 +0900</pubDate>
+      
+      <guid>https://drawline.design/etude/sega/</guid>
+      <description>ui components Adobe CC</description>
+    </item>
+    
+    <item>
+      <title>NORMEE Limited.</title>
+      <link>https://drawline.design/portfolio/normee/</link>
+      <pubDate>Mon, 03 Sep 2018 16:20:52 +0900</pubDate>
+      
+      <guid>https://drawline.design/portfolio/normee/</guid>
+      <description>website jQuery, Photoshop
+Production time : One week
+card illustrator
+Production time : One week
+logo Photoshop, Illustrator
+$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.thumb-item {padding-left:0;margin:0;}Production time : One month</description>
+    </item>
+    
+    <item>
+      <title>Tricol Co., Ltd.</title>
+      <link>https://drawline.design/portfolio/tricol/</link>
+      <pubDate>Sun, 21 Feb 2016 16:20:52 +0900</pubDate>
+      
+      <guid>https://drawline.design/portfolio/tricol/</guid>
+      <description>logo illustrator
+Production time : One week
+CI illustrator
+Production time : One week
+website Photoshop, Illustrator, build at SQUARESPACE
+Production time : Two weeks</description>
+    </item>
+    
+    <item>
+      <title>Fate Zero Next Encounter</title>
+      <link>https://drawline.design/portfolio/fz/</link>
+      <pubDate>Thu, 21 Feb 2013 16:20:52 +0900</pubDate>
+      
+      <guid>https://drawline.design/portfolio/fz/</guid>
+      <description>website jQuery, Photoshop, Illustrator
+Campaign Site jQuery, Photoshop</description>
+    </item>
+    
+    <item>
+      <title>GG</title>
+      <link>https://drawline.design/portfolio/gg/</link>
+      <pubDate>Mon, 21 May 2012 16:20:52 +0900</pubDate>
+      
+      <guid>https://drawline.design/portfolio/gg/</guid>
+      <description>website jQuery, Photoshop
+Production time : One week</description>
+    </item>
+    
+    <item>
+      <title>Black Rock Shooter ARCANA</title>
+      <link>https://drawline.design/portfolio/brs/</link>
+      <pubDate>Tue, 21 Feb 2012 16:20:52 +0900</pubDate>
+      
+      <guid>https://drawline.design/portfolio/brs/</guid>
+      <description>website Photoshop, jQuery, Tween.js
+Production time : One month
+UI Photoshop
+Production time : One month</description>
+    </item>
+    
+    <item>
+      <title>Forsaken World</title>
+      <link>https://drawline.design/portfolio/fw/</link>
+      <pubDate>Thu, 21 Feb 2008 16:20:52 +0900</pubDate>
+      
+      <guid>https://drawline.design/portfolio/fw/</guid>
+      <description>website jQuery, Photoshop, Flash AS3.0
+Production time : One month</description>
+    </item>
+    
+    <item>
+      <title>Zhuxian</title>
+      <link>https://drawline.design/portfolio/zx/</link>
+      <pubDate>Thu, 21 Feb 2008 16:20:52 +0900</pubDate>
+      
+      <guid>https://drawline.design/portfolio/zx/</guid>
+      <description>artwork Photoshop, Illustrator (Illustration is outsourced.)
+Production time : One month
+logo design Photoshop, Illustrator
+Production time : Two weeks</description>
+    </item>
+    
+    <item>
+      <title>Perfect World</title>
+      <link>https://drawline.design/portfolio/pw/</link>
+      <pubDate>Mon, 09 Apr 2007 16:20:52 +0900</pubDate>
+      
+      <guid>https://drawline.design/portfolio/pw/</guid>
+      <description>artwork Photoshop, Illustrator (Illustration is outsourced.)
+Production time : One month</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,122 @@
+<style media="screen">
+  .home-contents section {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  .home-contents section .home-post {
+    float: left;
+    display: block;
+    width:323.3333333333333px;
+    height:430px;
+    margin-bottom: 13px;
+  }
+  .home-contents section .home-post:nth-of-type(3n+2) {
+    margin: 0 15px;
+  }
+  .home-contents section figure div {
+    display: block;
+    width:323.3333333333333px;
+    height:323.3333333333333px;
+    overflow: hidden;
+    border-radius: 8px;
+    margin-bottom:10px;
+  }
+  .home-contents section figure img {
+    border: 1px solid #EFEFEF;
+    box-sizing: border-box;
+    width:323.3333333333333px;
+    height:323.3333333333333px;
+    object-fit: cover;
+  }
+  .home-contents section figure img {
+    transition-duration: 0.7s;
+  }
+  .home-contents section figure img:hover{
+    transform: scale(1.1);
+    transition-duration: 1s;
+  }
+  .home-contents:after {
+    clear: all;
+  }
+  .home-contents h2.home-categories {
+    width: 100%;
+    margin: 50px 0;
+    text-align: center;
+    font-size: 3rem;
+  }
+  .home-contents section h3.post-title {
+    font-size: 2rem;
+  }
+
+  @media only screen and (max-width: 1020px) {
+    .home-contents section {
+      width: 96%;
+      margin: 0 auto;
+    }
+    .home-contents section .home-post {
+      width:32.66666666666667%;
+      height:450px;
+      margin: 0;
+    }
+    .home-contents section figure div {
+      width:100%;
+      height:323.3333333333333px;
+    }
+    .home-contents section figure img {
+      width:100%;
+      height:323.3333333333333px;
+      object-fit: cover;
+      margin: 0 0;
+    }
+    .home-contents section .home-post:nth-of-type(3n+2) {
+      margin: 0 1%;
+    }
+    .home-contents section h3.post-title {
+      font-size: 1.7rem;
+    }
+  }
+  @media only screen and (max-width: 500px) {
+    .home-contents section .home-post {
+      float:none;
+      height:auto;
+      padding-bottom: 18px;
+      display:block;
+      width:96%;
+      margin: 0 auto;
+    }
+    .home-contents section figure div {
+      width:100%;
+      height: 250px;
+      margin-bottom: 5px;
+    }
+    .home-contents section figure img {
+      width:100%;
+      height: 250px;
+      object-fit: cover;
+      margin: 0 0;
+    }
+    .home-contents section .home-post:nth-of-type(3n+2) {
+      margin: 0;
+    }
+    .home-contents section .home-post:nth-of-type(odd),
+    .home-contents section .home-post:nth-of-type(even) {
+      margin: 0 2%;
+    }
+  }
+</style>
+
+<div class="home-contents">
+  <h2 class="home-categories">Portfolio</h2>
+  <section class="clearfix">
+    {{ range first 100 (where $.Site.RegularPages "Section" "portfolio") }}
+        {{ partial "home-li.html" . }}
+    {{ end }}
+  </section>
+  <h2 class="home-categories">One-off work</h2>
+  <section class="clearfix">
+    {{ range first 100 (where $.Site.RegularPages "Section" "etude") }}
+        {{ partial "home-li.html" . }}
+    {{ end }}
+  </section>
+</div>

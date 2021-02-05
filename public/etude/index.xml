@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Etude on nakajima nobuhiro</title>
+    <link>https://drawline.design/etude/</link>
+    <description>Recent content in Etude on nakajima nobuhiro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>All rights reserved.</copyright>
+    <lastBuildDate>Fri, 21 Aug 2020 20:19:37 +0900</lastBuildDate><atom:link href="https://drawline.design/etude/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Counter Fight SENRYU</title>
+      <link>https://drawline.design/etude/senryu/</link>
+      <pubDate>Fri, 21 Aug 2020 20:19:37 +0900</pubDate>
+      
+      <guid>https://drawline.design/etude/senryu/</guid>
+      <description>3d scene design unity, Adobe CC
+$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.thumb-item {padding-left:0;margin:0;}</description>
+    </item>
+    
+    <item>
+      <title>Horse</title>
+      <link>https://drawline.design/etude/horse/</link>
+      <pubDate>Mon, 02 Dec 2019 20:19:37 +0900</pubDate>
+      
+      <guid>https://drawline.design/etude/horse/</guid>
+      <description>modeling Modo, Zbrush, Substance Painter, Unity</description>
+    </item>
+    
+    <item>
+      <title>PLANNES X</title>
+      <link>https://drawline.design/etude/plannesx/</link>
+      <pubDate>Mon, 30 Sep 2019 20:19:37 +0900</pubDate>
+      
+      <guid>https://drawline.design/etude/plannesx/</guid>
+      <description>character design Modo, Substance Painter, Unity
+Player Character
+Drone
+NaSeed
+GaShos</description>
+    </item>
+    
+    <item>
+      <title>Card Soldiers</title>
+      <link>https://drawline.design/etude/alice/</link>
+      <pubDate>Tue, 24 Sep 2019 20:19:37 +0900</pubDate>
+      
+      <guid>https://drawline.design/etude/alice/</guid>
+      <description>character design Modo, Substance Painter, Unity
+play movie   </description>
+    </item>
+    
+    <item>
+      <title>HBA</title>
+      <link>https://drawline.design/etude/hba/</link>
+      <pubDate>Thu, 25 Jul 2019 20:19:37 +0900</pubDate>
+      
+      <guid>https://drawline.design/etude/hba/</guid>
+      <description>website Adobe CC</description>
+    </item>
+    
+    <item>
+      <title>VS Counter Fight</title>
+      <link>https://drawline.design/etude/vscf/</link>
+      <pubDate>Tue, 05 Feb 2019 20:19:37 +0900</pubDate>
+      
+      <guid>https://drawline.design/etude/vscf/</guid>
+      <description>UI Modo, Adobe CC, Unity
+  </description>
+    </item>
+    
+    <item>
+      <title>Sega lucky lottery</title>
+      <link>https://drawline.design/etude/sega/</link>
+      <pubDate>Sun, 20 Jan 2019 21:34:13 +0900</pubDate>
+      
+      <guid>https://drawline.design/etude/sega/</guid>
+      <description>ui components Adobe CC</description>
+    </item>
+    
+    <item>
+      <title>Cube Zombie</title>
+      <link>https://drawline.design/etude/cz/</link>
+      <pubDate>Wed, 26 Dec 2018 20:19:37 +0900</pubDate>
+      
+      <guid>https://drawline.design/etude/cz/</guid>
+      <description>character design Adobe CC
+vehicle design Modo, Substance Painter
+rigging Unity, Modo</description>
+    </item>
+    
+    <item>
+      <title>Rocket Craft</title>
+      <link>https://drawline.design/etude/rc/</link>
+      <pubDate>Thu, 26 Jul 2018 20:19:37 +0900</pubDate>
+      
+      <guid>https://drawline.design/etude/rc/</guid>
+      <description>logo Adobe CC
+trailer movie Unity, Modo, Substance Painter, Adobe CC
+  </description>
+    </item>
+    
+    <item>
+      <title>VR Fighter</title>
+      <link>https://drawline.design/etude/vf/</link>
+      <pubDate>Tue, 16 Jan 2018 20:19:37 +0900</pubDate>
+      
+      <guid>https://drawline.design/etude/vf/</guid>
+      <description>character design level design </description>
+    </item>
+    
+  </channel>
+</rss>

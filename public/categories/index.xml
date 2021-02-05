@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on nakajima nobuhiro</title>
+    <link>https://drawline.design/categories/</link>
+    <description>Recent content in Categories on nakajima nobuhiro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>All rights reserved.</copyright>
+    <lastBuildDate>Fri, 15 Jan 2021 20:34:13 +0900</lastBuildDate><atom:link href="https://drawline.design/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>portfolio</title>
+      <link>https://drawline.design/categories/portfolio/</link>
+      <pubDate>Fri, 15 Jan 2021 20:34:13 +0900</pubDate>
+      
+      <guid>https://drawline.design/categories/portfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>etude</title>
+      <link>https://drawline.design/categories/etude/</link>
+      <pubDate>Fri, 21 Aug 2020 20:19:37 +0900</pubDate>
+      
+      <guid>https://drawline.design/categories/etude/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
+      <link>https://drawline.design/categories/blog/</link>
+      <pubDate>Sun, 20 Jan 2019 21:34:13 +0900</pubDate>
+      
+      <guid>https://drawline.design/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

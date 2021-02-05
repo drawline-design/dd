@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on nakajima nobuhiro</title>
+    <link>https://drawline.design/categories/blog/</link>
+    <description>Recent content in blog on nakajima nobuhiro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>All rights reserved.</copyright>
+    <lastBuildDate>Sun, 20 Jan 2019 21:34:13 +0900</lastBuildDate><atom:link href="https://drawline.design/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sega lucky lottery</title>
+      <link>https://drawline.design/etude/sega/</link>
+      <pubDate>Sun, 20 Jan 2019 21:34:13 +0900</pubDate>
+      
+      <guid>https://drawline.design/etude/sega/</guid>
+      <description>ui components Adobe CC</description>
+    </item>
+    
+  </channel>
+</rss>
