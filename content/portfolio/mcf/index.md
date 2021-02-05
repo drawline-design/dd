@@ -5,7 +5,7 @@ tags = ["logo", "3D", "ui", "movie", "planning"]
 title = "MiNNaDe Counter Fight"
 share = false
 image = "/portfolio/mcf/images/cover.jpg"
-description = "Game for PC"
+description = "Game for PC & Nintendo Switch"
 categories = ["portfolio"]
 
 +++
@@ -42,8 +42,10 @@ Adobe CC
 
 ![](images/mcf_01.png)
 
-### sns icon
+### sns image
 
 Adobe CC
 
 ![](images/mcf_02.png)
+
+![](images/mcf_03.png)

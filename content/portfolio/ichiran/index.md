@@ -16,6 +16,8 @@ Modo, Adobe CC
 
 ![](images//ichiran_cover.jpg)
 
+{{< gallery src="character" >}}
+
 Production time : One week
 
 ### level design
