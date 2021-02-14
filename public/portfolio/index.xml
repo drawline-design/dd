@@ -26,10 +26,12 @@ level design Unity, Adobe CC, Substance Painter
       <pubDate>Sat, 02 May 2020 20:34:13 +0900</pubDate>
       
       <guid>https://drawline.design/portfolio/mcf/</guid>
-      <description>artwork / logo / character design Modo, Adobe CC
+      <description>artwork / character design Modo, Adobe CC
 Production time : One week
+logo Adobe CC
+$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.thumb-item {padding-left:0;margin:0;}Production time : One week
 level design Unity, Adobe CC, Substance Painter
-$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.thumb-item {padding-left:0;margin:0;}Production time : Three month</description>
+$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.</description>
     </item>
     
     <item>

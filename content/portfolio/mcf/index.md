@@ -10,11 +10,19 @@ categories = ["portfolio"]
 
 +++
 
-### artwork / logo / character design
+### artwork / character design
 
 Modo, Adobe CC
 
 ![](images/cover.jpg)
+
+Production time : One week
+
+### logo
+
+Adobe CC
+
+{{< gallery src="logo" >}}
 
 Production time : One week
 
