@@ -47,6 +47,16 @@ level design Unity, Adobe CC, Substance Painter
     </item>
     
     <item>
+      <title>DHW Lecture slides</title>
+      <link>https://drawline.design/portfolio/dh/</link>
+      <pubDate>Fri, 27 Sep 2019 20:34:13 +0900</pubDate>
+      
+      <guid>https://drawline.design/portfolio/dh/</guid>
+      <description>lecture slides keynote
+$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.thumb-item {padding-left:0;margin:0;}$(function() {$(&#39;.</description>
+    </item>
+    
+    <item>
       <title>Counter Fight 3</title>
       <link>https://drawline.design/portfolio/cf3/</link>
       <pubDate>Thu, 20 Dec 2018 20:34:13 +0900</pubDate>

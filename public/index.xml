@@ -79,6 +79,16 @@ GaShos</description>
     </item>
     
     <item>
+      <title>DHW Lecture slides</title>
+      <link>https://drawline.design/portfolio/dh/</link>
+      <pubDate>Fri, 27 Sep 2019 20:34:13 +0900</pubDate>
+      
+      <guid>https://drawline.design/portfolio/dh/</guid>
+      <description>lecture slides keynote
+$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.thumb-item {padding-left:0;margin:0;}$(function() {$(&#39;.</description>
+    </item>
+    
+    <item>
       <title>Card Soldiers</title>
       <link>https://drawline.design/etude/alice/</link>
       <pubDate>Tue, 24 Sep 2019 20:19:37 +0900</pubDate>
