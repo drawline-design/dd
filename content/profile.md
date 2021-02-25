@@ -17,9 +17,9 @@ weight = 201
 
 # Nakajima Nobuhiro
 
-{{< profile img="/images/profile.jpg" >}}
+{{< images src="/images/profile.jpg" width="15%" float="left" margin="0 15px 0 0" >}}
 
-## 2D/3D Designer, Director
+## Art Director, 2D/3D Designer
 
 ### Summary
 
@@ -35,10 +35,14 @@ My specialties include: Web Design (UI/UX), 3D Modeling, Motion Graphics.
 - 2012-2016 S&P Corp. / Designer<br/>
 - 2016- Tricol Co., Ltd. / Corporate Founder, Designer
 
-### Skills
+### Skill
+
+![](/images/profile_skill.jpg)
 
 Logo Design, Web Design, Graphic Design, Illustration, 3D Modeling, Motion Graphics, Level Design and Art Direction
 
-### Softwere
+### Software
+
+![](/images/profile_software.jpg)
 
 Unity, Substance Painter, Zbrush, Substance Designer, modo, Cinema 4d, Photoshop, Illustrator, Dreamweaver, Animate CC, After effects, GitHub

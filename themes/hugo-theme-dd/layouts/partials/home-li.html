@@ -8,9 +8,6 @@
     </header>
     <h3 class="post-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
     <section class="post-excerpt">
-        {{if .Params.Description }}
-            <p>{{ .Params.Description }} <a class="read-more" href="{{.RelPermalink}}">&raquo;</a></p>
-        {{end}}
             <p class="post-meta"><time class="post-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
                 {{ .Date.Format "2 Jan 2006" }}
             </time>

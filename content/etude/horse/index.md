@@ -17,7 +17,3 @@ Modo, Zbrush, Substance Painter, Unity
 ![](images/cover.jpg)
 
 ![](images/horse_00.jpg)
-
-![](images/horse_01.jpg)
-
-![](images/horse_02.jpg)

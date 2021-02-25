@@ -4,7 +4,7 @@ draft = false
 tags = ["logo", "3D", "ui", "movie", "planning"]
 title = "DHW Lecture slides"
 share = false
-image = "/portfolio/hw/images/cover.jpg"
+image = "/portfolio/dh/images/cover.jpg"
 description = "Lecture at a vocational school"
 categories = ["portfolio"]
 

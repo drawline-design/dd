@@ -54,6 +54,7 @@ Adobe CC
 
 Adobe CC
 
-![](images/mcf_02.png)
+{{< images src="images/mcf_04.png" width="50%" float="left" margin="0" >}}
+{{< images src="images/mcf_02.png" width="50%" float="left" margin="0" >}}
 
 ![](images/mcf_03.png)
