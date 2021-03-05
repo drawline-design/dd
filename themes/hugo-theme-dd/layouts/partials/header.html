@@ -50,6 +50,7 @@
     <link rel="stylesheet" type="text/css" href="{{ "css/nav.css" | relURL}}" />
     <link rel="stylesheet" type="text/css" href="{{ "css/slick-theme.css" | relURL}}" />
     <link rel="stylesheet" type="text/css" href="{{ "css/slick.css" | relURL}}" />
+
     {{ range .Site.Params.customCSS }}
     <link rel="stylesheet" href="{{ . | relURL }}">
     {{ end }}
@@ -69,6 +70,7 @@
     <script type="text/javascript" src="{{"js/jquery.fitvids.js" | relURL}}"></script>
     <script type="text/javascript" src="{{"js/index.js" | relURL}}"></script>
     <script type="text/javascript" src="{{"js/slick.min.js" | relURL}}"></script>
+    <script type="text/javascript" src="//webfonts.sakura.ne.jp/js/sakurav3.js"></script>
 
     {{ if .Site.Params.RSSLink}}
         <link href="{{.Site.Params.RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />

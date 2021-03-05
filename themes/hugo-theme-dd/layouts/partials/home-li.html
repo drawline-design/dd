@@ -1,7 +1,7 @@
 {{ $head_img := .Resources.GetMatch "images/*cover.jpg" }}
 <article class="home-post {{ .Section }}">
     <header class="post-header">
-        {{ if $head_img }}{{ $thumbnail_s := $head_img.Resize "x400 q100" }}
+        {{ if $head_img }}{{ $thumbnail_s := $head_img.Fill "400x225 Center q100" }}
         	<figure><div><a href="{{ .RelPermalink }}"><img class="post-thumb" src="{{ $thumbnail_s.RelPermalink }}" alt="{{ .Title }}" title="{{ .Title }}" /></a></div></figure>
         {{else}}
         {{end}}

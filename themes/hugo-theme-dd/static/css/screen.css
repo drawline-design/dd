@@ -51,6 +51,14 @@ hr {
    box-sizing: content-box;
    height: 0;
 }
+::selection{
+background: rgba(0,0,0,.99);
+color: #000;
+}
+::-moz-selection{
+background: rgba(0,0,0,.99);
+color: #000;
+}
 mark { background: #FF0; color: #000; }
 code, kbd, pre,
 samp { font-family: monospace, serif; font-size: 1em; }
@@ -99,6 +107,84 @@ input::-moz-focus-inner { border: 0; padding: 0; }
 textarea { overflow: auto; vertical-align: top; }
 table { border-collapse: collapse; border-spacing: 0; }
 
+.iam .image {
+   float:left;
+   width:200px;
+   border-radius: 100%;
+}
+
+.iam .profile {
+  margin-left: 230px;
+}
+
+.profile_skill::after {
+  content: "";
+  clear: both;
+}
+
+.profile_skill, .profile_tool {
+  float: left;
+  display: block;
+  border: 1px solid #CDCDCD;
+  margin: 3px 3px 5px 0;
+  padding: 3px 10px;
+  border-radius: 30px;
+}
+
+.information .period,
+.information .member,
+.information .workDetail,
+.information .detail {
+  width: 49.5%;
+  float: left;
+}
+.information h5{
+  font-size: 1.3em;
+}
+.information h5::before {
+    font-family: "genericons";
+    margin-right: 5px;
+    font-size: 1.6em;
+    vertical-align: bottom;
+}
+
+.information .period h5::before {
+    content: "\f307";
+}
+.information .member h5::before {
+    content: "\f304";
+}
+.information .workDetail h5::before {
+    content: "\f411";
+}
+.information .detail h5::before {
+    content: "\f455";
+}
+
+.information .member,
+.information .detail {
+  margin-left: 1%;
+}
+
+.information .workDetail {
+  padding-bottom: 10px;
+}
+.information ul {
+  margin: 0 auto;
+}
+.information .detail ul {
+  padding: 0;
+}
+.information .detail ul li {
+  list-style-type:none;
+  margin: 3px 0;
+}
+.information::after {
+   content: "";
+   clear: both;
+   display: block;
+   margin-bottom: 15px;
+}
 
 /* ==========================================================================
    1. Icons - Sets up the icon font and respective classes
@@ -250,7 +336,7 @@ html {
 body {
     height: 100%;
     max-height: 100%;
-    font-family: "Merriweather", serif;
+    font-family: "Shin Go Medium", "Open Sans", sans-serif;
     letter-spacing: 0.01rem;
     font-size: 1.3rem;
     line-height: 1.75em;
@@ -277,8 +363,9 @@ h4, h5, h6 {
     color: #2E2E2E;
     line-height: 1.15em;
     margin: 0 0 0.4em 0;
-    font-family: "Open Sans", sans-serif;
+    font-family: "見出ゴMB31", "Midashi Go MB31", "Open Sans", sans-serif;
     text-rendering: geometricPrecision;
+    text-transform: capitalize;
 }
 
 h1 {
@@ -539,7 +626,7 @@ margin on the iframe, cause it breaks stuff. */
     vertical-align: middle;
 }
 .coverText {
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Shin Go Medium", 'Open Sans', sans-serif;
     position: absolute;
     bottom: 25px;
     right: 30px;
@@ -614,7 +701,7 @@ body.nav-opened .site-wrapper {
 
 .main-nav a {
     text-decoration: none;
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Shin Go Medium", 'Open Sans', sans-serif;
 }
 
 /* Navigation */
@@ -967,7 +1054,7 @@ body.nav-opened .menu-button .word {
     font-size: 2rem;
     line-height: 1.5em;
     font-weight: 400;
-    font-family: "Merriweather", serif;
+    font-family: "Open Sans", sans-serif;
     letter-spacing: 0.01rem;
     color: rgba(255,255,255,0.8);
     text-shadow: 1px 1px 5px rgba(0,0,0,.6);
@@ -1091,7 +1178,7 @@ body:not(.post-template) .post-title {
     width: 100%;
     height: auto;
     margin-right: 9px;
-    border-radius: 8px;
+    border-radius: 5px;
 }
 
 .post-meta a {
@@ -1417,7 +1504,7 @@ a.tag {
 /* Location, WebSite, and link */
 .author-profile .author-meta {
     margin: 2rem 0;
-    font-family: "Merriweather", serif;
+    font-family: "Open Sans", sans-serif;
     letter-spacing: 0.01rem;
     font-size: 1.7rem;
 }
@@ -2259,15 +2346,29 @@ a.tag {
      }
      .home-contents h2.home-categories {
        width: 100%;
-       margin: 50px 0;
+       margin: 50px 0 20px 0;
        text-align: center;
        font-size: 3rem;
+     }
+     .home-contents h5 {
+       text-align: center;
+       margin: 0 0 20px 0;
+       text-decoration: none;
+       font-weight: normal;
      }
      .home-contents section h3.post-title {
        font-size: 2rem;
      }
 
      @media only screen and (max-width: 1400px) {
+       .post-content {
+         width: 98%;
+         margin: auto;
+       }
+       .author {
+         width: 95%;
+         margin: auto 2.5%;
+       }
        .home-contents section {
          max-width: 900px;
          margin: 0 auto;
@@ -2293,59 +2394,98 @@ a.tag {
        .home-contents section .home-post:nth-of-type(2n) {
          margin: 0 0 13px 15px;
        }
+       .iam .image {
+          float:none;
+          display: block;
+          width:200px;
+          border-radius: 100%;
+          margin: auto;
+       }
+       .iam .name {
+         text-align: center;
+         font-size: 2em;
+         margin-bottom: 30px;
+       }
+       .iam .profile {
+         margin-left: 0;
+       }
+       .information h5 {
+         font-size: 1.5em;
+       }
+       .information .workDetail,
+       .information .detail {
+         width: 98%;
+         margin: auto;
+         float: none;
+       }
+       .information .workDetail::before {
+          content: "";
+          clear: both;
+          display: block;
+       }
+       .information .period,
+       .information .member {
+         width: 49%;
+         float: left;
+       }
+       .information .period,
+       .information .member {
+         margin-left: 1%;
+       }
      }
-     @media only screen and (max-width: 900px) {
+     @media only screen and (max-width: 910px) {
+       .post-content {
+         width: 100%;
+         margin: auto;
+       }
        .home-contents section {
-         max-width: 500px;
+         max-width: 95%;
          margin: 0 auto;
        }
        .home-contents section .home-post {
-         width:500px;
-         height: 381.25px;
+         width:49%;
+         height: auto;
+         margin: 0 0 0 0;
+         padding-bottom: 15px;
        }
        .post-thumb {
-           margin-right: 0;
+         margin-right: 0;
+       }
+       figure {
+         margin: 0;
        }
        .home-contents section figure div {
          width: 100%;
-         height: 281.25px;
+         height: auto;
+         margin: 0;
        }
        .home-contents section figure img {
          width: 100%;
-         height: 281.25px;
+         height: auto;
+         margin: 0;
        }
        .home-contents section .home-post:nth-of-type(3n+2) {
          margin: 0 0 0 0;
        }
        .home-contents section .home-post:nth-of-type(2n) {
-         margin: 0 0 13px 0;
+         margin: 0 0 0 2%;
+       }
+       .post-meta {
+         visibility: hidden;
+         display: none;
+       }
+       .home-post .post-title{
+         text-align: center;
+         overflow: hidden;
+         margin: 0;
+         padding: 0;
+       }
+       .post-title a {
+         font-size: .6em;
+         line-height: 0;
+         white-space: nowrap;
+         margin: 0;
+         padding: 0;
        }
      }
-     @media only screen and (max-width: 500px) {
-       .home-contents section .home-post {
-         float:none;
-         height:auto;
-         padding-bottom: 18px;
-         display:block;
-         width:96%;
-         margin: 0 auto;
-       }
-       .home-contents section figure div {
-         width: 100%;
-         height: 250px;
-         margin-bottom: 5px;
-       }
-       .home-contents section figure img {
-         width: 100%;
-         height: 250px;
-         object-fit: cover;
-         margin: 0 0;
-       }
-       .home-contents section .home-post:nth-of-type(3n+2) {
-         margin: 0;
-       }
-       .home-contents section .home-post:nth-of-type(odd),
-       .home-contents section .home-post:nth-of-type(even) {
-         margin: 0 2%;
-       }
      }

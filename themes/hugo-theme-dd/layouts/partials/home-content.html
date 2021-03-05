@@ -1,13 +1,70 @@
 <div class="home-contents">
-  <h2 class="home-categories">Portfolio</h2>
+  <h2 class="home-categories">I AM</h2>
   <section class="clearfix">
-    {{ range first 100 (where $.Site.RegularPages "Section" "portfolio") }}
+    <div class="iam">
+      {{ $content := (index .Site.Data) }}
+      {{ with $content.homepage.profile }}
+      <h2></h2>
+      {{with .image}}<img src="{{ . | relURL }}" class="image">{{end}}
+      <div class="profile">
+      <h2 class="name">{{ .title | markdownify }}</h2>
+      <h3>{{ .job | markdownify }}</h3>
+      <p>{{ .content | markdownify }}</p>
+              {{ if .button.enable }}
+              {{ with .button }}
+              <div><a href="{{ .link | safeURL }}">{{ .label }}</a></div>
+              {{ end }}
+              {{ end }}
+              <h2>{{ .feature_title }}</h2>
+              <ul>
+              {{ range .feature_item }}
+              <li>{{ .year }} {{ .company }} / {{ .job }}</li>
+              {{ end }}
+              </ul>
+              <p><h2>{{ .skill_title }}</h2></p>
+              {{ range .skill_item }}
+              <div class="profile_skill"><img src="images/{{ .icon }}" width="15" style="vertical-align:middle" /> {{ .name }}</div>
+              {{ end }}<br clear="all" />
+              <p><h2>{{ .tool_title }}</h2></p>
+              {{ range .tool_item }}
+              <div class="profile_tool"><img src="images/{{ .icon }}" width="15" style="vertical-align:middle" /> {{ .name }}</div>
+              {{ end }}<br clear="all" />
+        </div>
+      {{ end }}
+    </div>
+  </section>
+
+  <h2 class="home-categories">Development</h2>
+  <section class="clearfix">
+    {{ range first 100 (where $.Site.RegularPages "Section" "develop") }}
         {{ partial "home-li.html" . }}
     {{ end }}
   </section>
-  <h2 class="home-categories">Etudes</h2>
+
+  <h2 class="home-categories">UI</h2>
   <section class="clearfix">
-    {{ range first 100 (where $.Site.RegularPages "Section" "etude") }}
+    {{ range first 100 (where $.Site.RegularPages "Section" "ui") }}
+        {{ partial "home-li.html" . }}
+    {{ end }}
+  </section>
+
+  <h2 class="home-categories">Web</h2>
+  <section class="clearfix">
+    {{ range first 100 (where $.Site.RegularPages "Section" "web") }}
+        {{ partial "home-li.html" . }}
+    {{ end }}
+  </section>
+
+  <h2 class="home-categories">Misc</h2>
+  <section class="clearfix">
+    {{ range first 100 (where $.Site.RegularPages "Section" "misc") }}
+        {{ partial "home-li.html" . }}
+    {{ end }}
+  </section>
+
+  <h2 class="home-categories">Study</h2>
+  <section class="clearfix">
+    {{ range first 100 (where $.Site.RegularPages "Section" "study") }}
         {{ partial "home-li.html" . }}
     {{ end }}
   </section>

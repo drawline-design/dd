@@ -1,7 +1,7 @@
 baseURL = "https://drawline.design"
 copyright = "All rights reserved."
 disqusshortname = ""
-languagecode = "ja"
+languagecode = "jp"
 paginate = 10
 pluralizelisttitles = false
 theme = "hugo-theme-dd"
@@ -10,24 +10,34 @@ canonifyurls = true
 
 [[menu.main]]
 identifier = "Home"
-name = "home"
+name = "Home"
 url = "/"
-weight = 6
-[[menu.main]]
-identifier = "Profile"
-name = "profile"
-url = "/profile"
-weight = 5
-[[menu.main]]
-identifier = "Portfolio"
-name = "portfolio"
-url = "/portfolio"
-weight = 4
-[[menu.main]]
-identifier = "Etude"
-name = "etude"
-url = "/etude"
 weight = 3
+[[menu.main]]
+identifier = "Development"
+name = "Game Develop"
+url = "/develop"
+weight = 2
+[[menu.main]]
+identifier = "ui"
+name = "UI"
+url = "/ui"
+weight = 2
+[[menu.main]]
+identifier = "Web"
+name = "Web design"
+url = "/web"
+weight = 2
+[[menu.main]]
+identifier = "Misc"
+name = "Misc"
+url = "/misc"
+weight = 2
+[[menu.main]]
+identifier = "Study"
+name = "Study"
+url = "/Study"
+weight = 1
 
 [params]
 author = "Nakajima Nobuhiro"
@@ -35,17 +45,17 @@ authorlocation = "Tokyo, Japan"
 authorWebSite = "https://drawline.design"
 authorbio = "2D/3D Designer, Director"
 cover = "images/cover_polenord.jpg"
-description = "portfolio 2021"
+description = ""
 googleAnalyticsUserID = ""
 hideHUGOSupport = false
 logo = "images/logo.png"
 indexlogo = "images/logo.svg"
-twitterName = "xinpak"
-facebookName = "xinpak"
-email = "drawline.dzn@gmail.com"
+twitterName = ""
+facebookName = ""
+email = ""
 hjsStyle = "default"
-coverText = "Rendering by : Substance Painter"
-
+coverText = "Rendering by : Modo"
+frontPageSections = ["portfolio","etude"]
 
 [permalinks]
 post = "/:slug/"

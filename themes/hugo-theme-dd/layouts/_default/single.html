@@ -44,7 +44,30 @@
   <article class="post {{ .Section }}">
 
     <section class="post-content">
-      {{ .Content }}
+      {{if .Params.information}}<div class="information">
+        {{if .Params.DevelopmentPeriod}}<div class="period">
+          <h5>制作期間</h5>
+          <p>{{ .Params.DevelopmentPeriod }}</p>
+        </div>{{ end }}
+        {{if .Params.member }}<div class="member">
+          <h5>担当者数</h5>
+          <p>{{ .Params.Member }}</p>
+        </div>{{ end }}
+        {{if .Params.workDetail }}<div class="workDetail">
+          <h5>作業内容</h5>{{ range .Params.workDetail }}
+              <ul>
+                <li><b>{{ .title }}</b> : {{ ._target.text }}</li>
+              </ul>{{ end }}
+          </div>{{ end }}
+        {{if .Params.detail }}<div class="detail">
+          <h5>詳細</h5>{{ range .Params.detail }}
+            <ul>
+              <li>{{ . }}</li>
+            </ul>
+          {{ end }}</div>{{ end }}
+      </div>
+    {{ end }}
+      <div class="post-content-inner">{{ .Content }}</div>
     </section>
 
   <footer class="post-footer">
