@@ -3,14 +3,14 @@ date = "2014-02-21T16:20:52+09:00"
 draft = false
 tags = ["logo","ui","graphic"]
 title = "AKB48 Official Rhythm Game"
-description = "Android / iOS app 2014-2018"
+description = "Android / iOS App"
 share = false
 image = "/ui/akb/images/cover.jpg"
 categories = ["ui"]
 information = "true"
 developmentPeriod = "約3ヶ月"
 member = "デザイナー2名"
-detail = ["AKB48の公式リズムゲームです。立ち上げ時からゲーム運営まで従事しました。","運営中は業務改善としてPhotoshopのスクリプトによる画像量産の効率化なども実施しました。"]
+detail = ["AKB48の公式リズムゲームです。","立ち上げからゲーム運営まで従事しました。","運営中は業務効率の改善として、Photoshopスクリプトによる画像量産の効率化などもおこないました。"]
 
 [[workDetail]]
   title = "UI"
@@ -31,7 +31,7 @@ detail = ["AKB48の公式リズムゲームです。立ち上げ時からゲー�
 
 Adobe CC
 
-{{< gallery src="ui" >}}
+{{< gallery src="ui" name="UI" >}}
 
 ### logo
 
@@ -45,10 +45,10 @@ Illustrator
 
 Illustrator, Photoshop
 
-{{< gallery src="akb_poster" >}}
+{{< gallery src="akb_poster" name="Poster" >}}
 
 ### flyer
 
 Illustrator, Photoshop
 
-{{< gallery src="akb_flyer" >}}
+{{< gallery src="akb_flyer" name="Flyer" >}}

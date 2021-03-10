@@ -10,7 +10,7 @@ categories = ["develop"]
 information = "true"
 developmentPeriod = "1.5ヶ月"
 member = "開発者1名 / デザイナー1名"
-detail = ["Android端末とOculus Go用に開発したリズムゲームで、Youtubeから動画を引用し、譜面を自動生成する機能を持っています。","画面内のほとんどの要素が画像(skybox)のため、スピード感をもって完成させられたため、効果音や音楽の選定、操作の気持ちよくするための調整に時間をとって開発しています。"]
+detail = ["Android端末とOculus Go用に開発したリズムゲームです。、Youtubeから動画を引用し、譜面を自動生成する機能（特許出願中 特願2018-175664号）を持っています。","限られた開発期間の中で「音ゲーとしての気持ち良さ」の調整に多くの時間をとるため、画面内のほとんどの要素を画像(skybox)で構成し、エフェクトや操作感の調整を重点的におこないました。"]
 
 [[workDetail]]
   title = "背景・小道具"
@@ -19,7 +19,7 @@ detail = ["Android端末とOculus Go用に開発したリズムゲームで、Yo
 [[workDetail]]
   title = "UI"
   [workDetail._target]
-    text = "デザイン後、Unity上でレイアウトまで担当"
+    text = "デザイン、Unity上でのレイアウトまでを担当"
 [[workDetail]]
   title = "その他ゲーム内作業"
   [workDetail._target]
@@ -37,11 +37,11 @@ Modo, Adobe CC
 
 ![](images/cover.jpg)
 
-### level design
+### Scene Design
 
 Unity, Adobe CC, Modo, Substance Painter
 
-{{< gallery src="mu-tune" >}}
+{{< gallery src="mu-tune" name="LevelDesign" >}}
 
 ### PV
 

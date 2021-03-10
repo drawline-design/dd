@@ -10,7 +10,7 @@ categories = ["develop"]
 information = "true"
 developmentPeriod = "1.5ヶ月"
 member = "開発者1名 / デザイナー1名"
-detail = ["体感ゲーム的な側面も強いVRで、軽い運動になるほどの体験を実現させるために無重力空間でのテニスを企画しました。50ステージほどのボリュームに加え、いろいろな特殊ラケットを解放してゆくことで、様々な必殺技を繰り出すことが可能な仕様になっています。","制作したアセットの量はそこまで多くはありませんが、その分をレベルデザインや演出制作の時間に充てており、「実際にラケットで球を打っているような錯覚がある」など、うれしいご意見もいただきました。"]
+detail = ["「軽いスポーツになるようなVRゲーム」というコンセプトで、無重力空間でのテニスを企画しました。","約50ステージのボリュームに加え、ステージを進めることで特殊ラケットを解放でき、様々な必殺技を繰り出すことが可能です。","制作するアセット量が少ない分、レベルデザインや演出制作の時間に充てており、「実際にラケットで球を打っているような錯覚がある」などの高評価を得ています。"]
 
 [[workDetail]]
   title = "キャラクター"
@@ -23,7 +23,7 @@ detail = ["体感ゲーム的な側面も強いVRで、軽い運動になるほ�
 [[workDetail]]
   title = "UI"
   [workDetail._target]
-    text = "デザイン後、Unity上でレイアウトまで担当"
+    text = "デザイン、Unity上でのレイアウトまでを担当"
 [[workDetail]]
   title = "その他ゲーム内作業"
   [workDetail._target]
@@ -47,11 +47,11 @@ Cinema 4D, Adobe CC
 
 制作期間 : 1週間
 
-### level design
+### Scene Design
 
 Unity, Cinema 4d, Adobe CC, Zbrush
 
-{{< gallery src="plannes" >}}
+{{< gallery src="plannes" name="LevelDesign" >}}
 
 制作期間 : 1ヶ月
 

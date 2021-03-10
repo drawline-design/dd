@@ -16,7 +16,7 @@ categories = "study"
 
 ![](images/vf_00.jpg)
 
-### level design
+### Scene Design
 
 ![](images/vf_01.jpg)
 

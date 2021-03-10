@@ -9,7 +9,7 @@ description = "MMORPG from China"
 categories = ["web"]
 information = "true"
 developmentPeriod = "約1ヶ月"
-member = "デザイナー1名、イラストは外注"
+member = "デザイナー1名、イラストはアトラス・副島成記様の前面監修により制作していただきました。"
 
 +++
 

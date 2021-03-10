@@ -10,7 +10,7 @@ categories = ["develop"]
 information = "true"
 developmentPeriod = "1.5ヶ月"
 member = "開発者1名 / デザイナー1名"
-detail = ["Android端末用に開発したハイパーカジュアル的なVRゲームで、プレイヤーは工場の従業員になって、指示通りの商品をできるだけ多く組み立てると言う仕様です。","モバイル向けの軽量化処理を多数実装しており、2015年以降の端末であればそこまでfpsが落ちることなくプレイ可能な仕様になるまで調整をしています。"]
+detail = ["Android端末用に開発したハイパーカジュアルVRゲームです。プレイヤーは工場の従業員となり、限られた時間内に指示通りの商品をできるだけ多く組み立てなければなりません。","モバイル向けの軽量化処理を多数実装しており、2015年以降のAndroid端末であればプレイ可能です。"]
 
 [[workDetail]]
   title = "キャラクター"
@@ -23,7 +23,7 @@ detail = ["Android端末用に開発したハイパーカジュアル的なVRゲ
 [[workDetail]]
   title = "UI"
   [workDetail._target]
-    text = "デザイン後、Unity上でレイアウトまで担当"
+    text = "デザイン、Unity上でのレイアウトまでを担当"
 [[workDetail]]
   title = "その他ゲーム内作業"
   [workDetail._target]
@@ -43,17 +43,15 @@ Adobe CC
 
 制作期間 : 1週間
 
-### level design / character design
+### Scene Design / character design
 
 Unity, Modo, Adobe CC
 
-{{< gallery src="pf" >}}
+{{< gallery src="pf" name="LevelDesign" >}}
 
 {{< youtube MtPUKVkG0Kc >}}
 
 制作期間 : 1ヶ月
-
-制作期間 : 1日
 
 ### App Icon
 

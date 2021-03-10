@@ -10,7 +10,7 @@ categories = ["develop"]
 information = "true"
 developmentPeriod = "1.5ヶ月"
 member = "開発者1名 / デザイナー1名"
-detail = ["Android端末用に開発したハイパーカジュアル的VRゲームです。銭湯の管理人となって4つのステージでお風呂をディフェンスする、シューティングゲームになります。","敵キャラが多数出現するため、キャラクターのテクスチャを8体＋小道具を全て1枚の画像に詰め込んで軽量化し、UV座標のスライドのみで全キャラクターを表現できるように設計することでドローコール削減しています。"]
+detail = ["Android端末用に開発したハイパーカジュアルVRシューティングゲームです。","プレイヤーは銭湯の管理人となって、4つのステージでお風呂をディフェンスしなければなりません。","多種多様な敵キャラが出現するため、キャラクター8体＋小道具のテクスチャを全て1枚の画像に集約することで軽量化し、UV座標のスライドのみで全キャラクター及びオブジェクトを表現できるように設計し、ドローコールを削減しています。"]
 
 [[workDetail]]
   title = "キャラクター"
@@ -23,7 +23,7 @@ detail = ["Android端末用に開発したハイパーカジュアル的VRゲー
 [[workDetail]]
   title = "UI"
   [workDetail._target]
-    text = "デザイン後、Unity上でレイアウトまで担当"
+    text = "デザイン、Unity上でのレイアウトまでを担当"
 [[workDetail]]
   title = "その他ゲーム内作業"
   [workDetail._target]
@@ -43,11 +43,11 @@ Modo, Adobe CC
 
 制作期間 : 1日
 
-### level design
+### Scene Design
 
 Unity, Adobe CC, Modo, Substance Painter
 
-{{< gallery src="omafuro" >}}
+{{< gallery src="omafuro" name="LevelDesign" >}}
 
 {{< youtube hvS4J5Byk7U >}}
 

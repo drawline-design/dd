@@ -4,21 +4,10 @@
         <span class="hidden">Close</span>
     </a>
     <ul>
-        {{ $currentNode := . }}
-        {{with .Site.Menus.main}}
-        {{ range sort . "Weight" "desc"}}
-            {{.Pre}}
-            <li class="nav-opened{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .)}} nav-current{{end}}" role="presentation">
-            	<a href="{{.URL}}">{{.Name}}</a>
-            </li>
-        {{end}}
-        {{end}}
+      {{ $currentNode := . }}{{with .Site.Menus.main}}{{ range sort . "Weight" "desc"}}{{.Pre}}<li class="nav-opened{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .)}} nav-current{{end}}" role="presentation"><a href="{{.URL}}">{{.Name}}</a></li>
+      {{end}}{{end}}
     </ul>
+    {{ if .Site.Params.RSSLink}}<a class="subscribe-button icon-feed" href="{{.Site.Params.RSSLink }}">Subscribe</a> </div>{{else}}<a class="subscribe-button icon-feed" href="{{if .IsNode}}{{.RSSLink}}{{else}}{{"index.xml" | relURL}}{{end}}">Subscribe</a>{{end}}
+  </div>
 
-    {{ if .Site.Params.RSSLink}}
-    <a class="subscribe-button icon-feed" href="{{.Site.Params.RSSLink }}">Subscribe</a> </div>
-    {{else}}
-    <a class="subscribe-button icon-feed" href="{{if .IsNode}}{{.RSSLink}}{{else}}{{"index.xml" | relURL}}{{end}}">Subscribe</a>
-    {{end}}
-</div>
-<span class="nav-cover"></span>
+  <span class="nav-cover"></span>

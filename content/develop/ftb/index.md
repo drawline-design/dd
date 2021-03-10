@@ -10,7 +10,7 @@ categories = ["develop"]
 information = "true"
 developmentPeriod = "1ヶ月"
 member = "開発者1名 / デザイナー1名"
-detail = ["Gear VR用に開発した最初のミニゲームです。Unityやモデリングの方法を試行錯誤しながら制作したものですが、本タイトルをきっかけに日本のFacebook社Oculusのアジアメンバーの方々や、様々な方と知り合う結果となった作品です。"]
+detail = ["Gear VR用に開発した最初のミニゲームです。","「コントローラーが無い」、「3DoFトラッキングが無い」という制限の中で楽しめるゲームというコンセプトで開発しました。","Unityやモデリングの方法を試行錯誤しながら制作したものですが、本タイトルをきっかけに日本のFacebook社Oculusのアジアメンバーの方々や、様々な方と知り合う結果となった作品です。"]
 
 [[workDetail]]
   title = "背景・小道具"
@@ -19,7 +19,7 @@ detail = ["Gear VR用に開発した最初のミニゲームです。Unityやモ
 [[workDetail]]
   title = "UI"
   [workDetail._target]
-    text = "デザイン後、Unity上でレイアウトまで担当"
+    text = "デザイン、Unity上でのレイアウトまでを担当"
 [[workDetail]]
   title = "その他ゲーム内作業"
   [workDetail._target]
@@ -39,13 +39,19 @@ Cinema 4D, Photoshop, Illustrator
 
 制作期間 : 1週間
 
+### UI
+
+Photoshop, Illustrator, Unity
+
+![](images/ui_01.jpg)
+
 制作期間 : 1週間
 
-### level design
+### Scene Design
 
 Cinema 4d, Unity, Photoshop
 
-{{< gallery src="ftb" >}}
+{{< gallery src="ftb" name="LevelDesign" >}}
 
 制作期間 : 1ヶ月
 
@@ -56,9 +62,3 @@ After Effects, Cinema 4d
 {{< youtube iQp5I1o-ejE >}}
 
 制作期間 : 1週間
-
-### UI
-
-Cinema 4D, Photoshop, Illustrator
-
-![](images/ui.jpg)

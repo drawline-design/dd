@@ -8,7 +8,7 @@ image = "/study/alice/images/cover.jpg"
 description = "3D Modeling"
 categories = "study"
 information = "true"
-detail = ["VR脱出ゲームのアセットとして制作したトランプ兵。"]
+detail = ["VR脱出ゲームのアセットとして制作したトランプ兵です。"]
 
 [[workDetail]]
   title = "モデリング"

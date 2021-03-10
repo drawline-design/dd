@@ -21,4 +21,4 @@ detail = ["自社のSNS運用時に息抜きのために制作した川柳かる
 
 unity, Adobe CC
 
-{{< gallery src="senryu" >}}
+{{< gallery src="senryu" name="Senryu" >}}

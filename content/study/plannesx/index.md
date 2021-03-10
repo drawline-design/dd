@@ -8,6 +8,7 @@ image = "/study/plannesx/images/cover.jpg"
 description = "3D Modeling"
 categories = "study"
 information = "true"
+detail = ["VRゲームPLANNESの続編として企画しました。キャラクターをリアル仕様にし、ゲームシステムでは体力の概念を追加するなどの企画をしています。"]
 
 [[workDetail]]
   title = "モデリング"

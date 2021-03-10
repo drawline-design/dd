@@ -10,7 +10,7 @@ categories = ["develop"]
 information = "true"
 developmentPeriod = "3ヶ月"
 member = "開発者1名 / デザイナー1名"
-detail = ["この作品から以前より現代風な絵作りへ近づけるためシェーダーを全てPBRへ切り替え、レンダーパイプラインもUnity URPに移行しています。","新たにお客さんがやってくる枠の増加やフィーバーシステムの導入など、新しいシステムを企画・実装しています。","開発期間中はVRコンテンツの市場が短時間で楽しむものから、比較的長い時間遊べるコンテンツを求める段階へ変化しつつある時期だったこともあり、ゲームバランスは前作よりライトな方向性へ調整し、長時間プレイできるような仕様へと変更しています。","韓国のSmilegate社、STOVE VRでのサービスを契約しています。"]
+detail = ["カウンターファイトシリーズ第4弾のカフェシミュレーションゲームです。","この作品から、より現代風な絵作りへ近づけるためシェーダーを全てPBRへ切り替え、レンダーパイプラインもUnity URPに移行しました。","ゲーム性に変化を加えるため、テイクアウト窓口の追加や、フィーバーシステムの導入など、新しいシステムを企画・実装しています。","開発期間中はVRコンテンツの市場が短時間で楽しむものから、比較的長い時間遊べるコンテンツを求める段階へ変化しつつある時期だったこともあり、ゲームバランスは前作よりライトな方向性へ調整し、長時間プレイできるような仕様へと変更しました。","韓国のSmilegate社、STOVE VRにて配信サービスを契約しています。"]
 
 [[workDetail]]
   title = "キャラクター"
@@ -23,7 +23,7 @@ detail = ["この作品から以前より現代風な絵作りへ近づけるた
 [[workDetail]]
   title = "UI"
   [workDetail._target]
-    text = "デザイン後、Unity上でレイアウトまで担当"
+    text = "デザイン、Unity上でのレイアウトまでを担当"
 [[workDetail]]
   title = "その他ゲーム内作業"
   [workDetail._target]
@@ -43,11 +43,19 @@ Modo, Adobe CC
 
 制作期間 : 2週間
 
-### level design
+### UI
+
+Unity, Adobe CC
+
+{{< gallery src="ui" name="UI" >}}
+
+制作期間 : 1週間
+
+### Scene Design
 
 Unity, Adobe CC, Substance Painter
 
-{{< gallery src="cf4" >}}
+{{< gallery src="cf4" name="LevelDesign" >}}
 
 制作期間 : 1ヶ月
 

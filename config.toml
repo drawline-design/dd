@@ -5,29 +5,29 @@ languagecode = "jp"
 paginate = 10
 pluralizelisttitles = false
 theme = "hugo-theme-dd"
-title = "nakajima nobuhiro"
+title = "drawline.design"
 canonifyurls = true
 
 [[menu.main]]
 identifier = "Home"
 name = "Home"
 url = "/"
-weight = 3
+weight = 6
 [[menu.main]]
 identifier = "Development"
 name = "Game Develop"
 url = "/develop"
-weight = 2
+weight = 5
 [[menu.main]]
 identifier = "ui"
 name = "UI"
 url = "/ui"
-weight = 2
+weight = 4
 [[menu.main]]
 identifier = "Web"
 name = "Web design"
 url = "/web"
-weight = 2
+weight = 3
 [[menu.main]]
 identifier = "Misc"
 name = "Misc"
@@ -45,17 +45,18 @@ authorlocation = "Tokyo, Japan"
 authorWebSite = "https://drawline.design"
 authorbio = "2D/3D Designer, Director"
 cover = "images/cover_polenord.jpg"
-description = ""
+description = "PORTFOLIO 2021"
 googleAnalyticsUserID = ""
-hideHUGOSupport = false
+hideHUGOSupport = true
+metadescription = "中嶋信博 ポートフォリオ"
 logo = "images/logo.png"
 indexlogo = "images/logo.svg"
-twitterName = ""
-facebookName = ""
-email = ""
+twitterName = "xinpak"
+facebookName = "xinpak"
+email = "n.nakajima@drawline.design"
 hjsStyle = "default"
 coverText = "Rendering by : Modo"
-frontPageSections = ["portfolio","etude"]
+frontPageSections = ["portfolio","study"]
 
 [permalinks]
 post = "/:slug/"

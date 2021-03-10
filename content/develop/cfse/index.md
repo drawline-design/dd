@@ -10,7 +10,7 @@ categories = ["develop"]
 information = "true"
 developmentPeriod = "1.5ヶ月"
 member = "開発者1名 / デザイナー1名"
-detail = ["カウンターファイトの好評を受け開発した第2弾の作品になります。技術者と共同で前作よりもゲームバランスをブラッシュUPさせ、前回以上に快適なプレイ感覚を提供するため、テストプレイは多めに時間を割いています。","刀でも食材が切れる、お客さんがカウンター攻撃を仕掛けてくる、時間の流れが遅くなった世界で動けるようにしたいなど、自分の提案も多数採用されています。"]
+detail = ["カウンターファイトシリーズの第2弾です。前作以上に快適なプレイ感覚を提供するため、テストプレイとゲームバランス調整に重点を置き、開発を進めました。","刀でも食材が切れる、お客さんがカウンター攻撃を仕掛けてくる、時間の流れを遅くするなどの自身のアイデアが多数採用されています。"]
 
 [[workDetail]]
   title = "キャラクター"
@@ -23,7 +23,7 @@ detail = ["カウンターファイトの好評を受け開発した第2弾の�
 [[workDetail]]
   title = "UI"
   [workDetail._target]
-    text = "デザイン後、Unity上でレイアウトまで担当"
+    text = "デザイン、Unity上でのレイアウトまでを担当"
 [[workDetail]]
   title = "その他ゲーム内作業"
   [workDetail._target]
@@ -45,11 +45,11 @@ Cinema 4D, Modo, Adobe CC
 
 制作期間 : 2週間
 
-### level design
+### Scene Design
 
 Unity, Cinema 4d, Adobe CC, Substance Painter
 
-{{< gallery src="cfse" >}}
+{{< gallery src="cfse" name="LevelDesign" >}}
 
 制作期間 : 1ヶ月
 

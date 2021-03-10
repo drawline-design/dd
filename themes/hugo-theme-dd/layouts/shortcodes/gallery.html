@@ -1,37 +1,23 @@
-{{- if not ($.Page.Scratch.Get "gallery") }}
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.4.0/jquery.fancybox.min.css" />
+{{- if not ($.Page.Scratch.Get "gallery") }}<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.4.0/jquery.fancybox.min.css" />
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.4.0/jquery.fancybox.min.js"></script>
+  <style>
+  	.thumb-item {margin: 0;padding: 0;
+  	}
+		.gallery ul {
+			margin: 0;padding: 0;
+		}
+  </style>{{ end }}
+{{- $.Page.Scratch.Add "gallery" 1 -}}{{ $src := .Get "src" }}{{ $files := print "gallery/" $src "*" }}{{ $original := .Page.Resources.Match $files }}<p><div class="gallery">
+	<ul class="thumb-item_{{ $.Get "name" }}">
+  {{- range $original }}
+    {{ $thumbnail_s := .Resize "1000x q80" }}
+    <li><a class="slideItem" id="ver" data-fancybox="gallery{{ $.Get "name" }}" href="{{ . }}"><img src="{{ $thumbnail_s.RelPermalink }}" title="" /></a></li>
+  {{- end }}</ul>
   <script type="text/javascript">
     $(function() {
-         $('.thumb-item').slick({
-              arrows: true,
-              dots: false,
-              infinite: true,
-              speed: 1000,
-              slidesToShow: 1,
-              adaptiveHeight: true,
-              autoplay: true,
-              autoplaySpeed: 6000
+         $('.thumb-item_{{ $.Get "name" }}').slick({
+					 arrows: true,dots: false,infinite: true,speed: 500,slidesToShow: 1,adaptiveHeight: false,autoplay: true,autoplaySpeed: 2000
          });
     });
   </script>
-  <style>
-  	.thumb-item {
-  		padding-left:0;
-  		margin:0;
-  	}
-  </style>
-{{ end }}
-{{- $.Page.Scratch.Add "gallery" 1 -}}
-{{ $src := .Get "src" }}
-{{ $files := print "gallery/" $src "*" }}
-{{ $original := .Page.Resources.Match $files }}
-
-<div class="gallery">
-	<ul class="thumb-item">
-  {{- range $original }}
-    {{ $thumbnail_s := .Resize "1000x q90" }}
-    <li><a class="slideItem" id="ver" data-fancybox="gallery{{ $.Get "name" }}" href="{{ . }}"><img src="{{ $thumbnail_s.RelPermalink }}" title="" /></a></li>
-  {{- end }}
-</ul>
-</div>
+</div></p>

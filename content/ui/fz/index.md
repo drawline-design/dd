@@ -1,15 +1,15 @@
 +++
 date = "2013-02-21T16:20:52+09:00"
-tags = ["web"]
+tags = ["ui","web"]
 title = "Fate Zero Next Encounter"
-description = "Mobile game 2013"
+description = "Mobile game"
 share = false
 image = "/ui/fz/images/cover.jpg"
 categories = ["ui"]
 information = "true"
 developmentPeriod = "約2ヶ月"
 member = "デザイナー1名"
-detail = ["Fate ZeroのモバイルゲームUIです。","原作にあるマスター、サーヴァントの組み合わせを自由に変化させられることがセールスポイントであったため、公式サイトでもTOPの組み合わせがランダムに変化するよう制作しました。","限界まで品質にこだわり続ける版権元の監修は非常に厳格で、参考になるご意見をたくさんいただきました。"]
+detail = ["Fate Zeroのモバイルゲームです。","マスター、サーヴァントを自由に組み合わせられることがセールスポイントであったため、公式サイトでもTOPのマスター、サーヴァントの組み合わせがランダムに変化するよう企画・制作しました。","限界まで品質にこだわり続ける版権元の監修は非常に厳格で、参考になるご意見をたくさんいただきました。"]
 
 [[workDetail]]
   title = "UI"

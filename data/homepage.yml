@@ -2,8 +2,8 @@
 profile:
   title : "中嶋信博 / Nakajima Nobuhiro"
   image : "images/p.png"
-  job : "アートディレクター, 2D&3Dデザイナー"
-  content : "静岡県出身。デザインに全力で取り組むことで、現在まで可能な限り最高の成果を産み出してきました。デザイナーとして現場で制作することには熟知していますが、今以上に自分の能力を向上させ、成長の機会を探すことに熱心です。専門分野は主にエンターテインメント分野での3Dモデリング、Webデザイン、UI/UX、モーショングラフィックスです。"
+  job : "アートディレクター、2D&3Dデザイナー"
+  content : "静岡県出身。デザインに全力で取り組むことで、可能な限り最高の成果を産み出してきました。デザイナーとして現場で制作することについては熟知していますが、常に今以上に自分の能力を向上させ、成長の機会を探すことをモットーとして仕事に取り組んできました。専門分野は主にエンターテインメント分野での3Dモデリング、Webデザイン、UI/UX、モーショングラフィックスです。"
   contentEN : "A Designer born and raised in Shizuoka, Japan.I have a great passion for design and put full dedication towards everything that I do, ensuring I produce the best possible outcome. I have a proficiency in working within professional environments, yet I am always keen to expand and seek out more opportunities to help improve my abilities and develop further as a designer.My specialties include: Web Design (UI/UX), 3D Modeling, Motion Graphics."
 
   feature_title : "経歴"
@@ -18,7 +18,7 @@ profile:
       company : "Tricol Co., Ltd."
       job : "Corporate Founder, Art Director, Designer"
 
-  skill_title : "Fields"
+  skill_title : "スキル"
   skill_item:
     - name : "Art Direction"
       icon : "icon_artd.png"
@@ -33,7 +33,7 @@ profile:
     - name : "Graphic Design"
       icon : "icon_graphic.png"
 
-  tool_title : "Tools"
+  tool_title : "使用ツール"
   tool_item:
     - name : "Unity"
       icon : "unity.png"
@@ -57,3 +57,12 @@ profile:
       icon : "ac.png"
     - name : "Adobe XD"
       icon : "xd.png"
+
+  contact_title : "連絡先"
+  contact_item:
+    - name : "Discord"
+      detail : "xinpak#0371"
+    - name : "Mail"
+      detail : "n.nakajima@drawline.design"
+    - name : "Facebook"
+      detail : "https://www.facebook.com/xinpak"

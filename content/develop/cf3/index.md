@@ -19,7 +19,7 @@ detail = ["デザイナー1名に作業を教えつつ開発を進めたタイ�
 [[workDetail]]
   title = "UI"
   [workDetail._target]
-    text = "デザイン後、Unity上でレイアウト"
+    text = "デザイン、Unity上でのレイアウトまでを担当"
 [[workDetail]]
   title = "その他ゲーム内作業"
   [workDetail._target]
@@ -47,11 +47,11 @@ Adobe CC
 
 制作期間 : 1週間
 
-### level design
+### Scene Design
 
 Unity, Adobe CC, Substance Painter
 
-{{< gallery src="cf3" >}}
+{{< gallery src="cf3" name="LevelDesign" >}}
 
 制作期間 : 3ヶ月
 

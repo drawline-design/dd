@@ -1,45 +1,21 @@
 {{ partial "header.html" . }}
-
-{{if .Site.Params.cover}}
-{{if or (eq (substr .Site.Params.cover 0 7) "http://") (eq (substr .Site.Params.cover 0 8) "https://")}}
-  <header class="main-header" style="background-image: url({{.Site.Params.cover}})">
-  {{ else }}
-  <header class="main-header" style="background-image: url({{.Site.Params.cover | relURL}})">
-  {{ end }}
-{{else}}
-<header class="main-header no-cover">
-{{end}}
-    {{if .Site.Params.coverText}}
-    <div class="coverText">
-        {{ .Site.Params.coverText }}
-    </div>
-    {{end}}
-
-    <nav class="main-nav overlay clearfix">
-        {{ if .Site.Menus.main }}
-            <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
-        {{else}}
-            {{ if .Site.Params.RSSLink}}
-              <a class="menu-button icon-feed" href="{{.Site.Params.RSSLink }}">&nbsp;&nbsp;Subscribe</a>
-            {{else}}
-              <a class="menu-button icon-feed" href="{{ .RSSLink }}">&nbsp;&nbsp;Subscribe</a>
-            {{end}}
-        {{end}}
-    </nav>
-    <div class="vertical">
-        <div class="main-header-content inner">
-            <h1 class="page-title"><img src="{{ .Site.Params.indexlogo  | relURL}}" alt="Blog Logo" width="30%" /></h1>
-            {{ partial "social.html" . }}
+    {{if .Site.Params.cover}}{{if or (eq (substr .Site.Params.cover 0 7) "http://") (eq (substr .Site.Params.cover 0 8) "https://")}}<header class="main-header" style="background-image: url({{.Site.Params.cover}})">{{ else }}<header class="main-header" style="background-image: url({{.Site.Params.cover | relURL}})">{{ end }}{{else}}<header class="main-header no-cover">{{end}}
+      {{if .Site.Params.coverText}}<div class="coverText">{{ .Site.Params.coverText }}</div>{{end}}
+        <nav class="main-nav overlay clearfix">
+          {{ if .Site.Menus.main }}<a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>{{else}}{{ if .Site.Params.RSSLink}}<a class="menu-button icon-feed" href="{{.Site.Params.RSSLink }}">&nbsp;&nbsp;Subscribe</a>{{else}}<a class="menu-button icon-feed" href="{{ .RSSLink }}">&nbsp;&nbsp;Subscribe</a>{{end}}{{end}}
+        </nav>
+        <div class="vertical">
+          <div class="main-header-content inner">
+            <h1 class="page-title"><img src="{{ .Site.Params.indexlogo  | relURL}}" alt="Blog Logo" width="30%" /></h1>{{ partial "social.html" . }}
             <h2 class="page-description">{{ .Site.Params.description }}</h2>
         </div>
-    </div>
-    <a class="scroll-down icon-arrow-left" href="#content"><span class="hidden">Scroll Down</span></a>
-</header>
+      </div>
+      <a class="scroll-down icon-arrow-left" href="#content"><span class="hidden">Scroll Down</span></a>
+    </header>
 
-<main id="content" class="home-content" role="main">
-  {{ partial "home-content.html" . }}
-</main>
-
-{{ partial "footer-navigation.html" . }}
-
-{{ partial "footer.html" . }}
+    <main id="content" class="home-content" role="main">
+      {{ partial "home-content.html" . }}
+    </main>
+    
+    {{ partial "footer-navigation.html" . }}
+    {{ partial "footer.html" . }}
