@@ -1,71 +1,91 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>graphic on nakajima nobuhiro</title>
+    <title>graphic on drawline.design</title>
     <link>https://drawline.design/tags/graphic/</link>
-    <description>Recent content in graphic on nakajima nobuhiro</description>
+    <description>Recent content in graphic on drawline.design</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
+    <language>jp</language>
     <copyright>All rights reserved.</copyright>
-    <lastBuildDate>Mon, 03 Sep 2018 16:20:52 +0900</lastBuildDate><atom:link href="https://drawline.design/tags/graphic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Feb 2021 20:19:37 +0900</lastBuildDate><atom:link href="https://drawline.design/tags/graphic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Study of design 2021.2</title>
+      <link>https://drawline.design/study/study202102/</link>
+      <pubDate>Tue, 23 Feb 2021 20:19:37 +0900</pubDate>
+      
+      <guid>https://drawline.design/study/study202102/</guid>
+      <description>Fictitious thumbnail design Adobe CC</description>
+    </item>
+    
     <item>
       <title>NORMEE Limited.</title>
-      <link>https://drawline.design/portfolio/normee/</link>
+      <link>https://drawline.design/web/normee/</link>
       <pubDate>Mon, 03 Sep 2018 16:20:52 +0900</pubDate>
       
-      <guid>https://drawline.design/portfolio/normee/</guid>
+      <guid>https://drawline.design/web/normee/</guid>
       <description>website jQuery, Photoshop
-Production time : One week
+制作期間 : 1週間
 card illustrator
-Production time : One week
+制作期間 : 1週間
 logo Photoshop, Illustrator
-$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.thumb-item {padding-left:0;margin:0;}Production time : One month</description>
+.thumb-item {margin: 0;padding: 0;}.gallery ul {margin: 0;padding: 0;}$(function() {$(&#39;.thumb-item_Logo&#39;).slick({arrows: true,dots: false,infinite: true,speed: 500,slidesToShow: 1,adaptiveHeight: false,autoplay: true,autoplaySpeed: 2000});});
+制作期間 : 1ヶ月</description>
     </item>
     
     <item>
       <title>BLANQ Inc</title>
-      <link>https://drawline.design/portfolio/blanq/</link>
+      <link>https://drawline.design/misc/blanq/</link>
       <pubDate>Sun, 21 Feb 2016 16:20:52 +0900</pubDate>
       
-      <guid>https://drawline.design/portfolio/blanq/</guid>
+      <guid>https://drawline.design/misc/blanq/</guid>
       <description>Business Card Illustrator
-Production time : One week</description>
+制作期間 : 1週間</description>
     </item>
     
     <item>
       <title>Tricol Co., Ltd.</title>
-      <link>https://drawline.design/portfolio/tricol/</link>
+      <link>https://drawline.design/web/tricol/</link>
       <pubDate>Sun, 21 Feb 2016 16:20:52 +0900</pubDate>
       
-      <guid>https://drawline.design/portfolio/tricol/</guid>
+      <guid>https://drawline.design/web/tricol/</guid>
       <description>logo illustrator
-Production time : One week
+制作期間 : 1週間
 CI illustrator
-Production time : One week
+制作期間 : 1週間
 website Photoshop, Illustrator, build at SQUARESPACE
-Production time : Two weeks</description>
+制作期間 : 2週間</description>
+    </item>
+    
+    <item>
+      <title>AKB48 Official Rhythm Game</title>
+      <link>https://drawline.design/ui/akb/</link>
+      <pubDate>Fri, 21 Feb 2014 16:20:52 +0900</pubDate>
+      
+      <guid>https://drawline.design/ui/akb/</guid>
+      <description>UI Adobe CC
+.thumb-item {margin: 0;padding: 0;}.gallery ul {margin: 0;padding: 0;}$(function() {$(&#39;.thumb-item_UI&#39;).slick({arrows: true,dots: false,infinite: true,speed: 500,slidesToShow: 1,adaptiveHeight: false,autoplay: true,autoplaySpeed: 2000});});
+logo Illustrator
+poster Illustrator, Photoshop
+$(function() {$(&#39;.thumb-item_Poster&#39;).slick({arrows: true,dots: false,infinite: true,speed: 500,slidesToShow: 1,adaptiveHeight: false,autoplay: true,autoplaySpeed: 2000});});</description>
     </item>
     
     <item>
       <title>Yggdrasill</title>
-      <link>https://drawline.design/portfolio/yggdrasill/</link>
+      <link>https://drawline.design/web/yggdrasill/</link>
       <pubDate>Sat, 21 Feb 2009 16:20:52 +0900</pubDate>
       
-      <guid>https://drawline.design/portfolio/yggdrasill/</guid>
+      <guid>https://drawline.design/web/yggdrasill/</guid>
       <description>artwork Photoshop (Illustration is outsourced.)
-Production time : One week
-website Flash AS3.0
-Production time : One month</description>
+website Flash AS3.0</description>
     </item>
     
     <item>
       <title>Forsaken World</title>
-      <link>https://drawline.design/portfolio/fw/</link>
+      <link>https://drawline.design/web/fw/</link>
       <pubDate>Thu, 21 Feb 2008 16:20:52 +0900</pubDate>
       
-      <guid>https://drawline.design/portfolio/fw/</guid>
-      <description>website jQuery, Photoshop, Flash AS3.0
-Production time : One month</description>
+      <guid>https://drawline.design/web/fw/</guid>
+      <description>website jQuery, Photoshop, Flash AS3.0</description>
     </item>
     
   </channel>

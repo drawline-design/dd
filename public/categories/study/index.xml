@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>study on drawline.design</title>
+    <link>https://drawline.design/categories/study/</link>
+    <description>Recent content in study on drawline.design</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>jp</language>
+    <copyright>All rights reserved.</copyright>
+    <lastBuildDate>Tue, 23 Feb 2021 20:19:37 +0900</lastBuildDate><atom:link href="https://drawline.design/categories/study/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Study of design 2021.2</title>
+      <link>https://drawline.design/study/study202102/</link>
+      <pubDate>Tue, 23 Feb 2021 20:19:37 +0900</pubDate>
+      
+      <guid>https://drawline.design/study/study202102/</guid>
+      <description>Fictitious thumbnail design Adobe CC</description>
+    </item>
+    
+    <item>
+      <title>Counter Fight SENRYU</title>
+      <link>https://drawline.design/study/senryu/</link>
+      <pubDate>Fri, 21 Aug 2020 20:19:37 +0900</pubDate>
+      
+      <guid>https://drawline.design/study/senryu/</guid>
+      <description>3d scene design unity, Adobe CC
+.thumb-item {margin: 0;padding: 0;}.gallery ul {margin: 0;padding: 0;}$(function() {$(&#39;.thumb-item_Senryu&#39;).slick({arrows: true,dots: false,infinite: true,speed: 500,slidesToShow: 1,adaptiveHeight: false,autoplay: true,autoplaySpeed: 2000});});</description>
+    </item>
+    
+    <item>
+      <title>Horse</title>
+      <link>https://drawline.design/study/horse/</link>
+      <pubDate>Mon, 02 Dec 2019 20:19:37 +0900</pubDate>
+      
+      <guid>https://drawline.design/study/horse/</guid>
+      <description>modeling Modo, Zbrush, Substance Painter, Unity</description>
+    </item>
+    
+    <item>
+      <title>PLANNES X</title>
+      <link>https://drawline.design/study/plannesx/</link>
+      <pubDate>Mon, 30 Sep 2019 20:19:37 +0900</pubDate>
+      
+      <guid>https://drawline.design/study/plannesx/</guid>
+      <description>character design Modo, Substance Painter, Unity
+Player Character
+Drone
+NaSeed
+GaShos</description>
+    </item>
+    
+    <item>
+      <title>Card Soldiers</title>
+      <link>https://drawline.design/study/alice/</link>
+      <pubDate>Tue, 24 Sep 2019 20:19:37 +0900</pubDate>
+      
+      <guid>https://drawline.design/study/alice/</guid>
+      <description>character design Modo, Substance Painter, Unity
+play movie   </description>
+    </item>
+    
+    <item>
+      <title>HBA</title>
+      <link>https://drawline.design/study/hba/</link>
+      <pubDate>Thu, 25 Jul 2019 20:19:37 +0900</pubDate>
+      
+      <guid>https://drawline.design/study/hba/</guid>
+      <description>website Adobe CC</description>
+    </item>
+    
+    <item>
+      <title>VS Counter Fight</title>
+      <link>https://drawline.design/study/vscf/</link>
+      <pubDate>Tue, 05 Feb 2019 20:19:37 +0900</pubDate>
+      
+      <guid>https://drawline.design/study/vscf/</guid>
+      <description>UI Modo, Adobe CC, Unity
+  </description>
+    </item>
+    
+    <item>
+      <title>Cube Zombie</title>
+      <link>https://drawline.design/study/cz/</link>
+      <pubDate>Wed, 26 Dec 2018 20:19:37 +0900</pubDate>
+      
+      <guid>https://drawline.design/study/cz/</guid>
+      <description>character design Adobe CC
+vehicle design Modo, Substance Painter
+rigging Unity, Modo</description>
+    </item>
+    
+    <item>
+      <title>Rocket Craft</title>
+      <link>https://drawline.design/study/rc/</link>
+      <pubDate>Thu, 26 Jul 2018 20:19:37 +0900</pubDate>
+      
+      <guid>https://drawline.design/study/rc/</guid>
+      <description>logo Adobe CC
+trailer movie Unity, Modo, Substance Painter, Adobe CC
+  </description>
+    </item>
+    
+    <item>
+      <title>VR Fighter</title>
+      <link>https://drawline.design/study/vf/</link>
+      <pubDate>Tue, 16 Jan 2018 20:19:37 +0900</pubDate>
+      
+      <guid>https://drawline.design/study/vf/</guid>
+      <description>character design Scene Design </description>
+    </item>
+    
+  </channel>
+</rss>

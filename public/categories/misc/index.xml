@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>misc on drawline.design</title>
+    <link>https://drawline.design/categories/misc/</link>
+    <description>Recent content in misc on drawline.design</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>jp</language>
+    <copyright>All rights reserved.</copyright>
+    <lastBuildDate>Fri, 27 Sep 2019 20:34:13 +0900</lastBuildDate><atom:link href="https://drawline.design/categories/misc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DHW Lecture slides</title>
+      <link>https://drawline.design/misc/dh/</link>
+      <pubDate>Fri, 27 Sep 2019 20:34:13 +0900</pubDate>
+      
+      <guid>https://drawline.design/misc/dh/</guid>
+      <description>lecture slides keynote
+.thumb-item {margin: 0;padding: 0;}.gallery ul {margin: 0;padding: 0;}$(function() {$(&#39;.</description>
+    </item>
+    
+    <item>
+      <title>BLANQ Inc</title>
+      <link>https://drawline.design/misc/blanq/</link>
+      <pubDate>Sun, 21 Feb 2016 16:20:52 +0900</pubDate>
+      
+      <guid>https://drawline.design/misc/blanq/</guid>
+      <description>Business Card Illustrator
+制作期間 : 1週間</description>
+    </item>
+    
+  </channel>
+</rss>

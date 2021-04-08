@@ -1,13 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on nakajima nobuhiro</title>
+    <title>Tags on drawline.design</title>
     <link>https://drawline.design/tags/</link>
-    <description>Recent content in Tags on nakajima nobuhiro</description>
+    <description>Recent content in Tags on drawline.design</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
+    <language>jp</language>
     <copyright>All rights reserved.</copyright>
-    <lastBuildDate>Fri, 15 Jan 2021 20:34:13 +0900</lastBuildDate><atom:link href="https://drawline.design/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Feb 2021 20:19:37 +0900</lastBuildDate><atom:link href="https://drawline.design/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>graphic</title>
+      <link>https://drawline.design/tags/graphic/</link>
+      <pubDate>Tue, 23 Feb 2021 20:19:37 +0900</pubDate>
+      
+      <guid>https://drawline.design/tags/graphic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>study</title>
+      <link>https://drawline.design/tags/study/</link>
+      <pubDate>Tue, 23 Feb 2021 20:19:37 +0900</pubDate>
+      
+      <guid>https://drawline.design/tags/study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ui</title>
+      <link>https://drawline.design/tags/ui/</link>
+      <pubDate>Tue, 23 Feb 2021 20:19:37 +0900</pubDate>
+      
+      <guid>https://drawline.design/tags/ui/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>3D</title>
       <link>https://drawline.design/tags/3d/</link>
@@ -45,29 +72,11 @@
     </item>
     
     <item>
-      <title>ui</title>
-      <link>https://drawline.design/tags/ui/</link>
-      <pubDate>Fri, 15 Jan 2021 20:34:13 +0900</pubDate>
-      
-      <guid>https://drawline.design/tags/ui/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>web</title>
       <link>https://drawline.design/tags/web/</link>
       <pubDate>Thu, 25 Jul 2019 20:19:37 +0900</pubDate>
       
       <guid>https://drawline.design/tags/web/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>graphic</title>
-      <link>https://drawline.design/tags/graphic/</link>
-      <pubDate>Mon, 03 Sep 2018 16:20:52 +0900</pubDate>
-      
-      <guid>https://drawline.design/tags/graphic/</guid>
       <description></description>
     </item>
     

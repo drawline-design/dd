@@ -1,296 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Portfolio on nakajima nobuhiro</title>
-    <link>https://drawline.design/portfolio/</link>
-    <description>Recent content in Portfolio on nakajima nobuhiro</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <copyright>All rights reserved.</copyright>
-    <lastBuildDate>Fri, 15 Jan 2021 20:34:13 +0900</lastBuildDate><atom:link href="https://drawline.design/portfolio/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Counter Fight ICHIRAN</title>
-      <link>https://drawline.design/portfolio/ichiran/</link>
-      <pubDate>Fri, 15 Jan 2021 20:34:13 +0900</pubDate>
-      
-      <guid>https://drawline.design/portfolio/ichiran/</guid>
-      <description>artwork / character design Modo, Adobe CC
-$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.thumb-item {padding-left:0;margin:0;}Production time : One week
-level design Unity, Adobe CC, Substance Painter
-$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.</description>
-    </item>
-    
-    <item>
-      <title>MiNNaDe Counter Fight</title>
-      <link>https://drawline.design/portfolio/mcf/</link>
-      <pubDate>Sat, 02 May 2020 20:34:13 +0900</pubDate>
-      
-      <guid>https://drawline.design/portfolio/mcf/</guid>
-      <description>artwork / character design Modo, Adobe CC
-Production time : One week
-logo Adobe CC
-$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.thumb-item {padding-left:0;margin:0;}Production time : One week
-level design Unity, Adobe CC, Substance Painter
-$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.</description>
-    </item>
-    
-    <item>
-      <title>Counter Fight 4</title>
-      <link>https://drawline.design/portfolio/cf4/</link>
-      <pubDate>Thu, 20 Feb 2020 20:34:13 +0900</pubDate>
-      
-      <guid>https://drawline.design/portfolio/cf4/</guid>
-      <description>artwork / logo / character design Modo, Adobe CC
-Production time : Two weeks
-level design Unity, Adobe CC, Substance Painter
-$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.thumb-item {padding-left:0;margin:0;}Production time : One month</description>
-    </item>
-    
-    <item>
-      <title>DHW Lecture slides</title>
-      <link>https://drawline.design/portfolio/dh/</link>
-      <pubDate>Fri, 27 Sep 2019 20:34:13 +0900</pubDate>
-      
-      <guid>https://drawline.design/portfolio/dh/</guid>
-      <description>lecture slides keynote
-$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.thumb-item {padding-left:0;margin:0;}$(function() {$(&#39;.</description>
-    </item>
-    
-    <item>
-      <title>Counter Fight 3</title>
-      <link>https://drawline.design/portfolio/cf3/</link>
-      <pubDate>Thu, 20 Dec 2018 20:34:13 +0900</pubDate>
-      
-      <guid>https://drawline.design/portfolio/cf3/</guid>
-      <description>artwork / character design Modo, Adobe CC
-logo Adobe CC
-Production time : One weeks
-level design Unity, Adobe CC, Substance Painter
-$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.thumb-item {padding-left:0;margin:0;}Production time : One month
-pv Adobe CC, Unity</description>
-    </item>
-    
-    <item>
-      <title>NORMEE Limited.</title>
-      <link>https://drawline.design/portfolio/normee/</link>
-      <pubDate>Mon, 03 Sep 2018 16:20:52 +0900</pubDate>
-      
-      <guid>https://drawline.design/portfolio/normee/</guid>
-      <description>website jQuery, Photoshop
-Production time : One week
-card illustrator
-Production time : One week
-logo Photoshop, Illustrator
-$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.thumb-item {padding-left:0;margin:0;}Production time : One month</description>
-    </item>
-    
-    <item>
-      <title>Mu-tune</title>
-      <link>https://drawline.design/portfolio/mt/</link>
-      <pubDate>Thu, 26 Jul 2018 20:34:13 +0900</pubDate>
-      
-      <guid>https://drawline.design/portfolio/mt/</guid>
-      <description>artwork / logo Modo, Adobe CC
-Production time : One week
-level design Unity, Adobe CC, Modo, Substance Painter
-$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.thumb-item {padding-left:0;margin:0;}Production time : One month
-pv Adobe CC, Modo
-  Production time : Two weeks</description>
-    </item>
-    
-    <item>
-      <title>OmaFuro!</title>
-      <link>https://drawline.design/portfolio/omafuro/</link>
-      <pubDate>Mon, 09 Jul 2018 20:34:13 +0900</pubDate>
-      
-      <guid>https://drawline.design/portfolio/omafuro/</guid>
-      <description>artwork / logo Modo, Adobe CC
-Production time : One day
-level design Unity, Adobe CC, Modo, Substance Painter
-$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.thumb-item {padding-left:0;margin:0;}  Production time : One month
-icon Adobe CC</description>
-    </item>
-    
-    <item>
-      <title>Panic Factory</title>
-      <link>https://drawline.design/portfolio/pf/</link>
-      <pubDate>Mon, 21 May 2018 16:20:52 +0900</pubDate>
-      
-      <guid>https://drawline.design/portfolio/pf/</guid>
-      <description>logo Adobe CC
-Production time : One week
-level design / character design Unity, Modo, Adobe CC
-$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.thumb-item {padding-left:0;margin:0;}  Production time : One month
-Planning White board</description>
-    </item>
-    
-    <item>
-      <title>Counter Fight SE</title>
-      <link>https://drawline.design/portfolio/cfse/</link>
-      <pubDate>Wed, 26 Oct 2016 20:34:13 +0900</pubDate>
-      
-      <guid>https://drawline.design/portfolio/cfse/</guid>
-      <description>artwork / logo / character design Cinema 4D, Modo, Adobe CC
-Production time : Two weeks
-level design Unity, Cinema 4d, Adobe CC, Substance Painter
-$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.thumb-item {padding-left:0;margin:0;}Production time : One month
-pv Adobe CC, Cinema 4d</description>
-    </item>
-    
-    <item>
-      <title>PLANNES</title>
-      <link>https://drawline.design/portfolio/plannes/</link>
-      <pubDate>Fri, 21 Oct 2016 16:20:52 +0900</pubDate>
-      
-      <guid>https://drawline.design/portfolio/plannes/</guid>
-      <description>artwork / logo / character design Cinema 4D, Adobe CC
-Production time : One week
-level design Unity, Cinema 4d, Adobe CC, Zbrush
-$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.thumb-item {padding-left:0;margin:0;}Production time : One month
-pv Adobe CC, Cinema 4d</description>
-    </item>
-    
-    <item>
-      <title>Counter Fight</title>
-      <link>https://drawline.design/portfolio/cf/</link>
-      <pubDate>Fri, 26 Aug 2016 19:53:45 +0900</pubDate>
-      
-      <guid>https://drawline.design/portfolio/cf/</guid>
-      <description>artwork / logo / character design Cinema 4D, Modo, Adobe CC
-Production time : One month
-level design Unity, Cinema 4d, Adobe CC, Substance Painter
-$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.thumb-item {padding-left:0;margin:0;}pv Adobe CC, Cinema 4d
-  Production time : Two weeks</description>
-    </item>
-    
-    <item>
-      <title>BLANQ Inc</title>
-      <link>https://drawline.design/portfolio/blanq/</link>
-      <pubDate>Sun, 21 Feb 2016 16:20:52 +0900</pubDate>
-      
-      <guid>https://drawline.design/portfolio/blanq/</guid>
-      <description>Business Card Illustrator
-Production time : One week</description>
-    </item>
-    
-    <item>
-      <title>Free throw bomber</title>
-      <link>https://drawline.design/portfolio/ftb/</link>
-      <pubDate>Sun, 21 Feb 2016 16:20:52 +0900</pubDate>
-      
-      <guid>https://drawline.design/portfolio/ftb/</guid>
-      <description>artwork / logo Cinema 4D, Photoshop, Illustrator
-Production time : One week
-level design Cinema 4d, Unity, Photoshop
-$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.thumb-item {padding-left:0;margin:0;}Production time : One month
-pv After Effects, Cinema 4d
-  Production time : One week</description>
-    </item>
-    
-    <item>
-      <title>Tricol Co., Ltd.</title>
-      <link>https://drawline.design/portfolio/tricol/</link>
-      <pubDate>Sun, 21 Feb 2016 16:20:52 +0900</pubDate>
-      
-      <guid>https://drawline.design/portfolio/tricol/</guid>
-      <description>logo illustrator
-Production time : One week
-CI illustrator
-Production time : One week
-website Photoshop, Illustrator, build at SQUARESPACE
-Production time : Two weeks</description>
-    </item>
-    
-    <item>
-      <title>AKB48 Official Rhythm Game</title>
-      <link>https://drawline.design/portfolio/akb/</link>
-      <pubDate>Fri, 21 Feb 2014 16:20:52 +0900</pubDate>
-      
-      <guid>https://drawline.design/portfolio/akb/</guid>
-      <description>logo Illustrator
-Production time : One month
-UI Adobe CC
-poster Illustrator, Photoshop
-$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.thumb-item {padding-left:0;margin:0;}Production time : One week
-flyer Illustrator, Photoshop
-$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.</description>
-    </item>
-    
-    <item>
-      <title>Fate Zero Next Encounter</title>
-      <link>https://drawline.design/portfolio/fz/</link>
-      <pubDate>Thu, 21 Feb 2013 16:20:52 +0900</pubDate>
-      
-      <guid>https://drawline.design/portfolio/fz/</guid>
-      <description>website jQuery, Photoshop, Illustrator
-Campaign Site jQuery, Photoshop</description>
-    </item>
-    
-    <item>
-      <title>GG</title>
-      <link>https://drawline.design/portfolio/gg/</link>
-      <pubDate>Mon, 21 May 2012 16:20:52 +0900</pubDate>
-      
-      <guid>https://drawline.design/portfolio/gg/</guid>
-      <description>website jQuery, Photoshop
-Production time : One week</description>
-    </item>
-    
-    <item>
-      <title>Black Rock Shooter ARCANA</title>
-      <link>https://drawline.design/portfolio/brs/</link>
-      <pubDate>Tue, 21 Feb 2012 16:20:52 +0900</pubDate>
-      
-      <guid>https://drawline.design/portfolio/brs/</guid>
-      <description>website Photoshop, jQuery, Tween.js
-Production time : One month
-UI Photoshop
-Production time : One month</description>
-    </item>
-    
-    <item>
-      <title>Yggdrasill</title>
-      <link>https://drawline.design/portfolio/yggdrasill/</link>
-      <pubDate>Sat, 21 Feb 2009 16:20:52 +0900</pubDate>
-      
-      <guid>https://drawline.design/portfolio/yggdrasill/</guid>
-      <description>artwork Photoshop (Illustration is outsourced.)
-Production time : One week
-website Flash AS3.0
-Production time : One month</description>
-    </item>
-    
-    <item>
-      <title>Forsaken World</title>
-      <link>https://drawline.design/portfolio/fw/</link>
-      <pubDate>Thu, 21 Feb 2008 16:20:52 +0900</pubDate>
-      
-      <guid>https://drawline.design/portfolio/fw/</guid>
-      <description>website jQuery, Photoshop, Flash AS3.0
-Production time : One month</description>
-    </item>
-    
-    <item>
-      <title>Zhuxian</title>
-      <link>https://drawline.design/portfolio/zx/</link>
-      <pubDate>Thu, 21 Feb 2008 16:20:52 +0900</pubDate>
-      
-      <guid>https://drawline.design/portfolio/zx/</guid>
-      <description>artwork Photoshop, Illustrator (Illustration is outsourced.)
-Production time : One month
-logo design Photoshop, Illustrator
-Production time : Two weeks</description>
-    </item>
-    
-    <item>
-      <title>Perfect World</title>
-      <link>https://drawline.design/portfolio/pw/</link>
-      <pubDate>Mon, 09 Apr 2007 16:20:52 +0900</pubDate>
-      
-      <guid>https://drawline.design/portfolio/pw/</guid>
-      <description>artwork Photoshop, Illustrator (Illustration is outsourced.)
-Production time : One month</description>
-    </item>
-    
-  </channel>
-</rss>

@@ -1,76 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3D on nakajima nobuhiro</title>
+    <title>3D on drawline.design</title>
     <link>https://drawline.design/tags/3d/</link>
-    <description>Recent content in 3D on nakajima nobuhiro</description>
+    <description>Recent content in 3D on drawline.design</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
+    <language>jp</language>
     <copyright>All rights reserved.</copyright>
     <lastBuildDate>Fri, 15 Jan 2021 20:34:13 +0900</lastBuildDate><atom:link href="https://drawline.design/tags/3d/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Counter Fight ICHIRAN</title>
-      <link>https://drawline.design/portfolio/ichiran/</link>
+      <link>https://drawline.design/develop/ichiran/</link>
       <pubDate>Fri, 15 Jan 2021 20:34:13 +0900</pubDate>
       
-      <guid>https://drawline.design/portfolio/ichiran/</guid>
+      <guid>https://drawline.design/develop/ichiran/</guid>
       <description>artwork / character design Modo, Adobe CC
-$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.thumb-item {padding-left:0;margin:0;}Production time : One week
-level design Unity, Adobe CC, Substance Painter
-$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.</description>
+.thumb-item {margin: 0;padding: 0;}.gallery ul {margin: 0;padding: 0;}$(function() {$(&#39;.thumb-item_&#39;).slick({arrows: true,dots: false,infinite: true,speed: 500,slidesToShow: 1,adaptiveHeight: false,autoplay: true,autoplaySpeed: 2000});});
+制作期間 : 1週間
+Scene Design Unity, Adobe CC, Substance Painter
+$(function() {$(&#39;.thumb-item_LevelDesign&#39;).slick({arrows: true,dots: false,infinite: true,speed: 500,slidesToShow: 1,adaptiveHeight: false,autoplay: true,autoplaySpeed: 2000});});</description>
     </item>
     
     <item>
       <title>Counter Fight SENRYU</title>
-      <link>https://drawline.design/etude/senryu/</link>
+      <link>https://drawline.design/study/senryu/</link>
       <pubDate>Fri, 21 Aug 2020 20:19:37 +0900</pubDate>
       
-      <guid>https://drawline.design/etude/senryu/</guid>
+      <guid>https://drawline.design/study/senryu/</guid>
       <description>3d scene design unity, Adobe CC
-$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.thumb-item {padding-left:0;margin:0;}</description>
+.thumb-item {margin: 0;padding: 0;}.gallery ul {margin: 0;padding: 0;}$(function() {$(&#39;.thumb-item_Senryu&#39;).slick({arrows: true,dots: false,infinite: true,speed: 500,slidesToShow: 1,adaptiveHeight: false,autoplay: true,autoplaySpeed: 2000});});</description>
     </item>
     
     <item>
       <title>MiNNaDe Counter Fight</title>
-      <link>https://drawline.design/portfolio/mcf/</link>
+      <link>https://drawline.design/develop/mcf/</link>
       <pubDate>Sat, 02 May 2020 20:34:13 +0900</pubDate>
       
-      <guid>https://drawline.design/portfolio/mcf/</guid>
+      <guid>https://drawline.design/develop/mcf/</guid>
       <description>artwork / character design Modo, Adobe CC
-Production time : One week
-logo Adobe CC
-$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.thumb-item {padding-left:0;margin:0;}Production time : One week
-level design Unity, Adobe CC, Substance Painter
-$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.</description>
+制作期間 : 2ヶ月
+UI Adobe CC, Unity
+.thumb-item {margin: 0;padding: 0;}.gallery ul {margin: 0;padding: 0;}$(function() {$(&#39;.thumb-item_UI&#39;).slick({arrows: true,dots: false,infinite: true,speed: 500,slidesToShow: 1,adaptiveHeight: false,autoplay: true,autoplaySpeed: 2000});});
+制作期間 : 1ヶ月
+Scene Design Unity, Adobe CC, Substance Painter
+$(function() {$(&#39;.</description>
     </item>
     
     <item>
       <title>Counter Fight 4</title>
-      <link>https://drawline.design/portfolio/cf4/</link>
+      <link>https://drawline.design/develop/cf4/</link>
       <pubDate>Thu, 20 Feb 2020 20:34:13 +0900</pubDate>
       
-      <guid>https://drawline.design/portfolio/cf4/</guid>
+      <guid>https://drawline.design/develop/cf4/</guid>
       <description>artwork / logo / character design Modo, Adobe CC
-Production time : Two weeks
-level design Unity, Adobe CC, Substance Painter
-$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.thumb-item {padding-left:0;margin:0;}Production time : One month</description>
+制作期間 : 2週間
+UI Unity, Adobe CC
+.thumb-item {margin: 0;padding: 0;}.gallery ul {margin: 0;padding: 0;}$(function() {$(&#39;.thumb-item_UI&#39;).slick({arrows: true,dots: false,infinite: true,speed: 500,slidesToShow: 1,adaptiveHeight: false,autoplay: true,autoplaySpeed: 2000});});
+制作期間 : 1週間
+Scene Design Unity, Adobe CC, Substance Painter
+$(function() {$(&#39;.</description>
     </item>
     
     <item>
       <title>Horse</title>
-      <link>https://drawline.design/etude/horse/</link>
+      <link>https://drawline.design/study/horse/</link>
       <pubDate>Mon, 02 Dec 2019 20:19:37 +0900</pubDate>
       
-      <guid>https://drawline.design/etude/horse/</guid>
+      <guid>https://drawline.design/study/horse/</guid>
       <description>modeling Modo, Zbrush, Substance Painter, Unity</description>
     </item>
     
     <item>
       <title>PLANNES X</title>
-      <link>https://drawline.design/etude/plannesx/</link>
+      <link>https://drawline.design/study/plannesx/</link>
       <pubDate>Mon, 30 Sep 2019 20:19:37 +0900</pubDate>
       
-      <guid>https://drawline.design/etude/plannesx/</guid>
+      <guid>https://drawline.design/study/plannesx/</guid>
       <description>character design Modo, Substance Painter, Unity
 Player Character
 Drone
@@ -80,30 +85,30 @@ GaShos</description>
     
     <item>
       <title>DHW Lecture slides</title>
-      <link>https://drawline.design/portfolio/dh/</link>
+      <link>https://drawline.design/misc/dh/</link>
       <pubDate>Fri, 27 Sep 2019 20:34:13 +0900</pubDate>
       
-      <guid>https://drawline.design/portfolio/dh/</guid>
+      <guid>https://drawline.design/misc/dh/</guid>
       <description>lecture slides keynote
-$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.thumb-item {padding-left:0;margin:0;}$(function() {$(&#39;.</description>
+.thumb-item {margin: 0;padding: 0;}.gallery ul {margin: 0;padding: 0;}$(function() {$(&#39;.</description>
     </item>
     
     <item>
       <title>Card Soldiers</title>
-      <link>https://drawline.design/etude/alice/</link>
+      <link>https://drawline.design/study/alice/</link>
       <pubDate>Tue, 24 Sep 2019 20:19:37 +0900</pubDate>
       
-      <guid>https://drawline.design/etude/alice/</guid>
+      <guid>https://drawline.design/study/alice/</guid>
       <description>character design Modo, Substance Painter, Unity
 play movie   </description>
     </item>
     
     <item>
       <title>Cube Zombie</title>
-      <link>https://drawline.design/etude/cz/</link>
+      <link>https://drawline.design/study/cz/</link>
       <pubDate>Wed, 26 Dec 2018 20:19:37 +0900</pubDate>
       
-      <guid>https://drawline.design/etude/cz/</guid>
+      <guid>https://drawline.design/study/cz/</guid>
       <description>character design Adobe CC
 vehicle design Modo, Substance Painter
 rigging Unity, Modo</description>
@@ -111,118 +116,148 @@ vehicle design Modo, Substance Painter
     
     <item>
       <title>Counter Fight 3</title>
-      <link>https://drawline.design/portfolio/cf3/</link>
+      <link>https://drawline.design/develop/cf3/</link>
       <pubDate>Thu, 20 Dec 2018 20:34:13 +0900</pubDate>
       
-      <guid>https://drawline.design/portfolio/cf3/</guid>
+      <guid>https://drawline.design/develop/cf3/</guid>
       <description>artwork / character design Modo, Adobe CC
+制作期間 : 3週間
 logo Adobe CC
-Production time : One weeks
-level design Unity, Adobe CC, Substance Painter
-$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.thumb-item {padding-left:0;margin:0;}Production time : One month
-pv Adobe CC, Unity</description>
+制作期間 : 1週間
+Scene Design Unity, Adobe CC, Substance Painter
+.thumb-item {margin: 0;padding: 0;}.gallery ul {margin: 0;padding: 0;}$(function() {$(&#39;.thumb-item_LevelDesign&#39;).slick({arrows: true,dots: false,infinite: true,speed: 500,slidesToShow: 1,adaptiveHeight: false,autoplay: true,autoplaySpeed: 2000});});
+制作期間 : 3ヶ月
+PV Adobe CC, Unity
+  制作期間 : 2週間</description>
     </item>
     
     <item>
       <title>Mu-tune</title>
-      <link>https://drawline.design/portfolio/mt/</link>
+      <link>https://drawline.design/develop/mt/</link>
       <pubDate>Thu, 26 Jul 2018 20:34:13 +0900</pubDate>
       
-      <guid>https://drawline.design/portfolio/mt/</guid>
+      <guid>https://drawline.design/develop/mt/</guid>
       <description>artwork / logo Modo, Adobe CC
-Production time : One week
-level design Unity, Adobe CC, Modo, Substance Painter
-$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.thumb-item {padding-left:0;margin:0;}Production time : One month
-pv Adobe CC, Modo
-  Production time : Two weeks</description>
+Scene Design Unity, Adobe CC, Modo, Substance Painter
+.thumb-item {margin: 0;padding: 0;}.gallery ul {margin: 0;padding: 0;}$(function() {$(&#39;.thumb-item_LevelDesign&#39;).slick({arrows: true,dots: false,infinite: true,speed: 500,slidesToShow: 1,adaptiveHeight: false,autoplay: true,autoplaySpeed: 2000});});
+PV Adobe CC, Modo
+  </description>
     </item>
     
     <item>
       <title>OmaFuro!</title>
-      <link>https://drawline.design/portfolio/omafuro/</link>
+      <link>https://drawline.design/develop/omafuro/</link>
       <pubDate>Mon, 09 Jul 2018 20:34:13 +0900</pubDate>
       
-      <guid>https://drawline.design/portfolio/omafuro/</guid>
+      <guid>https://drawline.design/develop/omafuro/</guid>
       <description>artwork / logo Modo, Adobe CC
-Production time : One day
-level design Unity, Adobe CC, Modo, Substance Painter
-$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.thumb-item {padding-left:0;margin:0;}  Production time : One month
-icon Adobe CC</description>
+制作期間 : 1日
+Scene Design Unity, Adobe CC, Modo, Substance Painter
+.thumb-item {margin: 0;padding: 0;}.gallery ul {margin: 0;padding: 0;}$(function() {$(&#39;.thumb-item_LevelDesign&#39;).slick({arrows: true,dots: false,infinite: true,speed: 500,slidesToShow: 1,adaptiveHeight: false,autoplay: true,autoplaySpeed: 2000});});
+  制作期間 : 1ヶ月
+icon Adobe CC
+制作期間 : 1日</description>
     </item>
     
     <item>
       <title>Panic Factory</title>
-      <link>https://drawline.design/portfolio/pf/</link>
+      <link>https://drawline.design/develop/pf/</link>
       <pubDate>Mon, 21 May 2018 16:20:52 +0900</pubDate>
       
-      <guid>https://drawline.design/portfolio/pf/</guid>
+      <guid>https://drawline.design/develop/pf/</guid>
       <description>logo Adobe CC
-Production time : One week
-level design / character design Unity, Modo, Adobe CC
-$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.thumb-item {padding-left:0;margin:0;}  Production time : One month
+制作期間 : 1週間
+Scene Design / character design Unity, Modo, Adobe CC
+.thumb-item {margin: 0;padding: 0;}.gallery ul {margin: 0;padding: 0;}$(function() {$(&#39;.thumb-item_LevelDesign&#39;).slick({arrows: true,dots: false,infinite: true,speed: 500,slidesToShow: 1,adaptiveHeight: false,autoplay: true,autoplaySpeed: 2000});});
+  制作期間 : 1ヶ月
+App Icon Adobe CC
+制作期間 : 1日
 Planning White board</description>
     </item>
     
     <item>
+      <title>Edcol</title>
+      <link>https://drawline.design/develop/edcol/</link>
+      <pubDate>Tue, 15 May 2018 16:20:52 +0900</pubDate>
+      
+      <guid>https://drawline.design/develop/edcol/</guid>
+      <description>PV After Effects, Unity, Modo
+  制作期間 : 1週間
+feature Illustrator
+scene design Modo, Unity, Substance Painter
+.thumb-item {margin: 0;padding: 0;}.gallery ul {margin: 0;padding: 0;}$(function() {$(&#39;.thumb-item_SceneDesign&#39;).slick({arrows: true,dots: false,infinite: true,speed: 500,slidesToShow: 1,adaptiveHeight: false,autoplay: true,autoplaySpeed: 2000});});
+制作期間 : 1ヶ月</description>
+    </item>
+    
+    <item>
       <title>VR Fighter</title>
-      <link>https://drawline.design/etude/vf/</link>
+      <link>https://drawline.design/study/vf/</link>
       <pubDate>Tue, 16 Jan 2018 20:19:37 +0900</pubDate>
       
-      <guid>https://drawline.design/etude/vf/</guid>
-      <description>character design level design </description>
+      <guid>https://drawline.design/study/vf/</guid>
+      <description>character design Scene Design </description>
     </item>
     
     <item>
       <title>Counter Fight SE</title>
-      <link>https://drawline.design/portfolio/cfse/</link>
+      <link>https://drawline.design/develop/cfse/</link>
       <pubDate>Wed, 26 Oct 2016 20:34:13 +0900</pubDate>
       
-      <guid>https://drawline.design/portfolio/cfse/</guid>
+      <guid>https://drawline.design/develop/cfse/</guid>
       <description>artwork / logo / character design Cinema 4D, Modo, Adobe CC
-Production time : Two weeks
-level design Unity, Cinema 4d, Adobe CC, Substance Painter
-$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.thumb-item {padding-left:0;margin:0;}Production time : One month
-pv Adobe CC, Cinema 4d</description>
+制作期間 : 2週間
+Scene Design Unity, Cinema 4d, Adobe CC, Substance Painter
+.thumb-item {margin: 0;padding: 0;}.gallery ul {margin: 0;padding: 0;}$(function() {$(&#39;.thumb-item_LevelDesign&#39;).slick({arrows: true,dots: false,infinite: true,speed: 500,slidesToShow: 1,adaptiveHeight: false,autoplay: true,autoplaySpeed: 2000});});
+制作期間 : 1ヶ月
+PV Adobe CC, Cinema 4d
+  制作期間 : 2週間</description>
     </item>
     
     <item>
       <title>PLANNES</title>
-      <link>https://drawline.design/portfolio/plannes/</link>
+      <link>https://drawline.design/develop/plannes/</link>
       <pubDate>Fri, 21 Oct 2016 16:20:52 +0900</pubDate>
       
-      <guid>https://drawline.design/portfolio/plannes/</guid>
+      <guid>https://drawline.design/develop/plannes/</guid>
       <description>artwork / logo / character design Cinema 4D, Adobe CC
-Production time : One week
-level design Unity, Cinema 4d, Adobe CC, Zbrush
-$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.thumb-item {padding-left:0;margin:0;}Production time : One month
-pv Adobe CC, Cinema 4d</description>
+制作期間 : 1週間
+Scene Design Unity, Cinema 4d, Adobe CC, Zbrush
+.thumb-item {margin: 0;padding: 0;}.gallery ul {margin: 0;padding: 0;}$(function() {$(&#39;.thumb-item_LevelDesign&#39;).slick({arrows: true,dots: false,infinite: true,speed: 500,slidesToShow: 1,adaptiveHeight: false,autoplay: true,autoplaySpeed: 2000});});
+制作期間 : 1ヶ月
+PV Adobe CC, Cinema 4d
+  制作期間 : 2週間</description>
     </item>
     
     <item>
       <title>Counter Fight</title>
-      <link>https://drawline.design/portfolio/cf/</link>
+      <link>https://drawline.design/develop/cf/</link>
       <pubDate>Fri, 26 Aug 2016 19:53:45 +0900</pubDate>
       
-      <guid>https://drawline.design/portfolio/cf/</guid>
+      <guid>https://drawline.design/develop/cf/</guid>
       <description>artwork / logo / character design Cinema 4D, Modo, Adobe CC
-Production time : One month
-level design Unity, Cinema 4d, Adobe CC, Substance Painter
-$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.thumb-item {padding-left:0;margin:0;}pv Adobe CC, Cinema 4d
-  Production time : Two weeks</description>
+制作期間 : 1ヶ月
+Scene Design Unity, Cinema 4d, Adobe CC, Substance Painter
+.thumb-item {margin: 0;padding: 0;}.gallery ul {margin: 0;padding: 0;}$(function() {$(&#39;.thumb-item_LevelDesign&#39;).slick({arrows: true,dots: false,infinite: true,speed: 500,slidesToShow: 1,adaptiveHeight: false,autoplay: true,autoplaySpeed: 2000});});
+PV Adobe CC, Cinema 4d
+  制作期間 : 2週間
+LINE stamp Adobe CC</description>
     </item>
     
     <item>
       <title>Free throw bomber</title>
-      <link>https://drawline.design/portfolio/ftb/</link>
+      <link>https://drawline.design/develop/ftb/</link>
       <pubDate>Sun, 21 Feb 2016 16:20:52 +0900</pubDate>
       
-      <guid>https://drawline.design/portfolio/ftb/</guid>
+      <guid>https://drawline.design/develop/ftb/</guid>
       <description>artwork / logo Cinema 4D, Photoshop, Illustrator
-Production time : One week
-level design Cinema 4d, Unity, Photoshop
-$(function() {$(&#39;.thumb-item&#39;).slick({arrows: true,dots: false,infinite: true,speed: 1000,slidesToShow: 1,adaptiveHeight: true,autoplay: true,autoplaySpeed: 3000});});.thumb-item {padding-left:0;margin:0;}Production time : One month
-pv After Effects, Cinema 4d
-  Production time : One week</description>
+制作期間 : 1週間
+UI Photoshop, Illustrator, Unity
+制作期間 : 1週間
+Scene Design Cinema 4d, Unity, Photoshop
+.thumb-item {margin: 0;padding: 0;}.gallery ul {margin: 0;padding: 0;}$(function() {$(&#39;.thumb-item_LevelDesign&#39;).slick({arrows: true,dots: false,infinite: true,speed: 500,slidesToShow: 1,adaptiveHeight: false,autoplay: true,autoplaySpeed: 2000});});
+制作期間 : 1ヶ月
+PV After Effects, Cinema 4d
+  制作期間 : 1週間</description>
     </item>
     
   </channel>

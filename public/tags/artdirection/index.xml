@@ -1,33 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>artDirection on nakajima nobuhiro</title>
+    <title>artDirection on drawline.design</title>
     <link>https://drawline.design/tags/artdirection/</link>
-    <description>Recent content in artDirection on nakajima nobuhiro</description>
+    <description>Recent content in artDirection on drawline.design</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
+    <language>jp</language>
     <copyright>All rights reserved.</copyright>
     <lastBuildDate>Thu, 21 Feb 2008 16:20:52 +0900</lastBuildDate><atom:link href="https://drawline.design/tags/artdirection/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zhuxian</title>
-      <link>https://drawline.design/portfolio/zx/</link>
+      <link>https://drawline.design/web/zx/</link>
       <pubDate>Thu, 21 Feb 2008 16:20:52 +0900</pubDate>
       
-      <guid>https://drawline.design/portfolio/zx/</guid>
+      <guid>https://drawline.design/web/zx/</guid>
       <description>artwork Photoshop, Illustrator (Illustration is outsourced.)
-Production time : One month
-logo design Photoshop, Illustrator
-Production time : Two weeks</description>
+logo design Photoshop, Illustrator</description>
     </item>
     
     <item>
       <title>Perfect World</title>
-      <link>https://drawline.design/portfolio/pw/</link>
+      <link>https://drawline.design/web/pw/</link>
       <pubDate>Mon, 09 Apr 2007 16:20:52 +0900</pubDate>
       
-      <guid>https://drawline.design/portfolio/pw/</guid>
-      <description>artwork Photoshop, Illustrator (Illustration is outsourced.)
-Production time : One month</description>
+      <guid>https://drawline.design/web/pw/</guid>
+      <description>art direction Photoshop, Illustrator
+artwork Photoshop, Illustrator (Illustration is outsourced.)</description>
     </item>
     
   </channel>

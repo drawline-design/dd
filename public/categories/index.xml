@@ -1,28 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on nakajima nobuhiro</title>
+    <title>Categories on drawline.design</title>
     <link>https://drawline.design/categories/</link>
-    <description>Recent content in Categories on nakajima nobuhiro</description>
+    <description>Recent content in Categories on drawline.design</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
+    <language>jp</language>
     <copyright>All rights reserved.</copyright>
-    <lastBuildDate>Fri, 15 Jan 2021 20:34:13 +0900</lastBuildDate><atom:link href="https://drawline.design/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Feb 2021 20:19:37 +0900</lastBuildDate><atom:link href="https://drawline.design/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>portfolio</title>
-      <link>https://drawline.design/categories/portfolio/</link>
-      <pubDate>Fri, 15 Jan 2021 20:34:13 +0900</pubDate>
+      <title>study</title>
+      <link>https://drawline.design/categories/study/</link>
+      <pubDate>Tue, 23 Feb 2021 20:19:37 +0900</pubDate>
       
-      <guid>https://drawline.design/categories/portfolio/</guid>
+      <guid>https://drawline.design/categories/study/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>etude</title>
-      <link>https://drawline.design/categories/etude/</link>
-      <pubDate>Fri, 21 Aug 2020 20:19:37 +0900</pubDate>
+      <title>develop</title>
+      <link>https://drawline.design/categories/develop/</link>
+      <pubDate>Fri, 15 Jan 2021 20:34:13 +0900</pubDate>
       
-      <guid>https://drawline.design/categories/etude/</guid>
+      <guid>https://drawline.design/categories/develop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>misc</title>
+      <link>https://drawline.design/categories/misc/</link>
+      <pubDate>Fri, 27 Sep 2019 20:34:13 +0900</pubDate>
+      
+      <guid>https://drawline.design/categories/misc/</guid>
       <description></description>
     </item>
     
@@ -32,6 +41,24 @@
       <pubDate>Sun, 20 Jan 2019 21:34:13 +0900</pubDate>
       
       <guid>https://drawline.design/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web</title>
+      <link>https://drawline.design/categories/web/</link>
+      <pubDate>Mon, 03 Sep 2018 16:20:52 +0900</pubDate>
+      
+      <guid>https://drawline.design/categories/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ui</title>
+      <link>https://drawline.design/categories/ui/</link>
+      <pubDate>Fri, 21 Feb 2014 16:20:52 +0900</pubDate>
+      
+      <guid>https://drawline.design/categories/ui/</guid>
       <description></description>
     </item>
     

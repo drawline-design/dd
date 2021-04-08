@@ -1,8 +1,3 @@
 RewriteEngine on
 RewriteCond %{HTTPS} off
 RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
-
-AuthType Basic
-AuthName "Input your ID and Password."
-AuthUserFile /home/b3r/www/.htpasswd
-require valid-user
