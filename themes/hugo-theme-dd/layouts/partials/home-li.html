@@ -1,11 +1,14 @@
 {{ $head_img := .Resources.GetMatch "images/*cover.jpg" }}
     <article class="home-post {{ .Section }}">
       <header class="post-header">{{ if $head_img }}{{ $thumbnail_s := $head_img.Fill "460x260 Center q100" }}
-        <figure><div><a href="{{ .RelPermalink }}"><img class="post-thumb" src="{{ $thumbnail_s.RelPermalink }}" alt="{{ .Title }}" title="{{ .Title }}" /></a></div></figure>{{else}}{{end}}
+        <figure>
+          <div>
+            <a href="{{ .RelPermalink }}"><img class="post-thumb" src="{{ $thumbnail_s.RelPermalink }}" alt="{{ .Title }}" title="{{ .Title }}" /></a>
+            <section class="post-excerpt">
+                <a href="{{ .RelPermalink }}"><h3 class="post-title">{{ .Title }}</h3>
+                <p class="post-meta"><time class="post-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "2 Jan 2006" }}</time></p></a>
+            </section>
+          </div>
+        </figure>{{else}}{{end}}
       </header>
-      <h3 class="post-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-      <section class="post-excerpt">
-        <p class="post-meta"><time class="post-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">{{ .Date.Format "2 Jan 2006" }}</time>
-        {{if .Params.tags }}{{ range $index, $tag := .Params.tags }}<a href="{{$.Site.BaseURL}}/tags/{{ $tag | urlize }}/" class="tag">#{{ $tag }}</a>{{ end }}{{end}}</p>
-      </section>
     </article>

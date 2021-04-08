@@ -8,21 +8,21 @@
                   <h3>{{ .job | markdownify }}</h3>
                   <p>{{ .content | markdownify }}</p>
                   {{ if .button.enable }}{{ with .button }}<div><a href="{{ .link | safeURL }}">{{ .label }}</a></div>{{ end }}{{ end }}
-                  <h2>{{ .feature_title }}</h2>
+                  <h3>{{ .feature_title }}</h3>
                   <ul>{{ range .feature_item }}
                     <li>{{ .year }} {{ .company }} / {{ .job }}</li>{{ end }}
                   </ul>
-                  <p><h2>{{ .skill_title }}</h2></p>
+                  <p><h3>{{ .skill_title }}</h3></p>
                   {{ range .skill_item }}<div class="profile_skill">
                     <img src="images/{{ .icon }}" width="15" style="vertical-align:middle" /> {{ .name }}
                   </div>
                   {{ end }}<br clear="all" />
-                  <p><h2>{{ .tool_title }}</h2></p>
+                  <p><h3>{{ .tool_title }}</h3></p>
                   {{ range .tool_item }}<div class="profile_tool">
                     <img src="images/{{ .icon }}" width="15" style="vertical-align:middle" /> {{ .name }}
                   </div>
                   {{ end }}<br clear="all" />
-                  <p><h2>{{ .contact_title }}</h2></p>
+                  <p><h3>{{ .contact_title }}</h3></p>
                   {{ range .contact_item }}<b>{{ .name }}</b> : {{ .detail }} <br />
                   {{ end }}
                 </div>

@@ -28,7 +28,7 @@
             <h1 class="page-title">{{ .Title }}</h1>
             <h2 class="page-description">{{ .Description }}</h2>
             <section class="post-meta">
-            {{ if eq .Section "portfolio" "blog"}}
+            {{ if eq .Section "develop" "misc" "ui" "study" "web"}}
             <time class="post-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
             {{ .Date.Format "Jan 2, 2006" }}
             </time>{{ range .Params.tags }}

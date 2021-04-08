@@ -51,6 +51,6 @@ Illustrator
 
 Modo, Unity, Substance Painter
 
-{{< gallery src="ss" name="Scene Design" >}}
+{{< gallery src="ss" name="SceneDesign" >}}
 
 制作期間 : 1ヶ月

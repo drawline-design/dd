@@ -57,6 +57,8 @@ profile:
       icon : "ac.png"
     - name : "Adobe XD"
       icon : "xd.png"
+    - name : "Spine"
+      icon : "spine.png"
 
   contact_title : "連絡先"
   contact_item:

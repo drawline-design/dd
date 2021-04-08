@@ -13,7 +13,8 @@
     <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}" />
     {{ range .Params.tags }}<meta property="article:tag" content="{{ . }}" />{{ end }}{{ else }}<meta property="og:type" content="WebSite" />
     <meta property="og:description" content="{{ .Site.Params.description }}" />{{ end }}
-
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    
     {{ if .IsPage }}<meta name="description" content="{{ .Description | default (substr .Summary 0 160) }}" />{{ else }}<meta name="description" content="{{ .Site.Params.metadescription | default .Site.Params.description }}" />{{ end }}
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -29,7 +30,8 @@
     <link rel="stylesheet" type="text/css" href="{{ "css/slick-theme.css" | relURL}}" />
     <link rel="stylesheet" type="text/css" href="{{ "css/slick.css" | relURL}}" />
     {{ range .Site.Params.customCSS }}<link rel="stylesheet" href="{{ . | relURL }}">{{ end }}
-    {{ if .Site.Params.hjsStyle }}<link href="https://fonts.googleapis.com/css?family=Sawarabi+Mincho" rel="stylesheet">
+    {{ if .Site.Params.hjsStyle }}<link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/styles/{{ .Site.Params.hjsStyle }}.min.css">
 
     <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/highlight.min.js"></script>
@@ -37,13 +39,13 @@
     <script type="text/javascript" src="{{"js/jquery.fitvids.js" | relURL}}"></script>
     <script type="text/javascript" src="{{"js/index.js" | relURL}}"></script>
     <script type="text/javascript" src="{{"js/slick.min.js" | relURL}}"></script>
-    <script type="text/javascript" src="//webfonts.sakura.ne.jp/js/sakurav3.js"></script>
 
     {{ if or .Site.Params.hjsExtraLanguages .Params.hjsExtraLanguages }}{{ range $index, $language := (union .Site.Params.hjsExtraLanguages .Params.hjsExtraLanguages) }}<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/languages/{{ $language }}.min.js"></script>{{ end }}{{ end }}<script>hljs.initHighlightingOnLoad();</script>{{end}}
     {{ if .Site.Params.RSSLink}}<link href="{{.Site.Params.RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />{{else}}{{ if ne .URL "/" }}<link href="{{ "index.xml" | relURL}}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />{{ end }}
     {{if .IsNode}}<link href="{{.RSSLink}}" rel="alternate" type="application/rss+xml" title="{{ if ne .URL "/" }}{{ .Title }} &middot; {{ end }}{{ .Site.Title }}" />{{end}}{{end}}
     <link rel="canonical" href="{{ .Permalink }}" />
-    {{ if .Params.customSemanticPartial }}{{ partial .Params.customSemanticPartial . }}{{ else }}{{ partial "semantic.html" . }}{{end}}{{with  .Site.Params.googleAnalyticsUserID }}<script>
+{{ if .Params.customSemanticPartial }}{{ partial .Params.customSemanticPartial . }}{{ else }}{{ partial "semantic.html" . }}{{end}}{{with  .Site.Params.googleAnalyticsUserID }}
+    <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
